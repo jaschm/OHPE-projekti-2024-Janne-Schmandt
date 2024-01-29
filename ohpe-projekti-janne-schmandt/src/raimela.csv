@@ -1,0 +1,116 @@
+Id,Littera,Rakennusosa,Paikka,Materiaali,Määrä,Yksikkö,KL,€/yks. mat.,€/yks. alih.,€/yks. kulj.,€/yks. konetyö,€yhteensa konetyö,€/yks. miestyö,€/yks,€/yks sis.kate,€yht
+504,3111.10,TrenchRun : 6.0-6.1 tonttihaara (14 items) Quantity Total length : 79.983m,6.0-6.1 tonttihaara Ylätie,jv110,80,m,54,5.00,0.00,0.00,,0,8.25,13.25,14.1775,1134.2
+505,3111.10,TrenchRun : 6.2-6.21 tonttihaara (2 items) Quantity Total length : 12.573m,6.2-6.21 tonttihaara Raimelantie,jv110,13,m,54,5.00,0.00,0.00,,0,8.25,13.25,14.1775,184.31
+509,3111.20,TrenchRun : 6.2-6.21 (2 items) Quantity Total length : 92.593m,6.2-6.21 Raimelantie,jv160,93,m,54,8.50,0.00,0.00,,0,8.25,16.75,17.9225,1666.79
+511,3111.30,TrenchRun : 3.0-3.1 (8 items) Quantity Total length : 271.344m,3.0-3.1 Nikkarintie,jv200,271,m,54,12.00,0.00,0.00,,0,8.25,20.25,21.6675,5871.89
+512,3111.30,TrenchRun : 6.0-6.1 (7 items) Quantity Total length : 241.235m,6.0-6.1 Ylätie,jv200,241,m,54,12.00,0.00,0.00,,0,8.25,20.25,21.6675,5221.87
+516,3131.20,TrenchRun : 3.0-3.1 tonttihaara (9 items) Quantity Total length : 56.769m,3.0-3.1 tonttihaara Nikkarintie,vj40,57,m,54,1.50,0.00,0.00,,0,4.13,5.63,6.0241,343.37
+517,3131.20,TrenchRun : 6.0-6.1 tonttihaara (14 items) Quantity Total length : 86.163m,6.0-6.1 tonttihaara Ylätie,vj40,86,m,54,1.50,0.00,0.00,,0,4.13,5.63,6.0241,518.07
+518,3131.20,TrenchRun : 6.2-6.21 tonttihaara (2 items) Quantity Total length : 12.727m,6.2-6.21 tonttihaara Raimelantie,vj40,13,m,54,1.50,0.00,0.00,,0,4.13,5.63,6.0241,78.31
+521,3131.50,TrenchRun : 3.0-3.1 (8 items) Quantity Total length : 274.087m,3.0-3.1 Nikkarintie,vj110,274,m,54,8.50,0.00,0.00,04.07,1115.18,5.50,18.07,20.6449,5656.7
+522,3131.50,TrenchRun : 6.0-6.1 (7 items) Quantity Total length : 241.653m,6.0-6.1 Ylätie,vj110,242,m,54,8.50,0.00,0.00,04.07,984.94,5.50,18.07,20.6449,4996.07
+523,3131.50,TrenchRun : 6.2-6.21 (2 items) Quantity Total length : 92.620m,6.2-6.21 Raimelantie,vj110,93,m,54,8.50,0.00,0.00,04.07,378.51,5.50,18.07,20.6449,1919.98
+530,3113.1,jvtk,6.0-6.1 Ylätie,jvtk400,4,kpl,54,225.00,0.00,0.00,61.00,244,66.00,352.00,396.33,1585.32
+531,3113.1,jvtk,3.0-3.1 Nikkarintie,jvtk400,5,kpl,54,225.00,0.00,0.00,61.00,305,66.00,352.00,396.33,1981.65
+532,3113.1,jvtk,6.2-6.21 Raimelantie,jvtk400,2,kpl,54,225.00,0.00,0.00,61.00,122,66.00,352.00,396.33,792.66
+535,3113.1,jvtk,6.0-6.1 Ylätie,jvtk560,4,kpl,54,300.00,0.00,0.00,61.00,244,,361.00,405.96,1623.84
+536,3113.1,jvtk,3.0-3.1 Nikkarintie,jvtk560,3,kpl,54,300.00,0.00,0.00,61.00,183,,361.00,405.96,1217.88
+539,3113.1,jvtk,3.0-3.1 Nikkarintie,jvtk800,2,kpl,54,380.00,0.00,0.00,61.00,122,82.50,523.50,579.835,1159.67
+544,1711.10,Kanaalikaivu,3.0-3.1 Nikkarintie,kallio,3,m3,63,0.00,25.00,6.00,8.71,26.13,2.20,41.91,47.6537,142.96
+549,1711.10,Kanaalikaivu,6.0-6.1 Ylätie,kallio,160,m3,63,0.00,25.00,6.00,8.71,1393.6,2.20,41.91,47.6537,7624.59
+551,1711.10,Kanaalikaivu,6.0-6.1 tonttihaara Ylätie,kallio,3,m3,63,0.00,25.00,6.00,8.71,26.13,2.20,41.91,47.6537,142.96
+553,1711.10,Kanaalikaivu,6.0-6.1 tonttihaara Ylätie,kallio,1,m3,63,0.00,25.00,6.00,8.71,8.71,2.20,41.91,47.6537,47.65
+555,1711.10,Kanaalikaivu,6.2-6.21 Raimelantie,kallio,244,m3,63,0.00,25.00,6.00,8.71,2125.24,2.20,41.91,47.6537,11627.5
+557,1711.10,Kanaalikaivu,6.2-6.21 tonttihaara Raimelantie,kallio,16,m3,63,0.00,25.00,6.00,8.71,139.36,2.20,41.91,47.6537,762.46
+545,1621.10,Kanaalikaivu,3.0-3.1 Nikkarintie,savi,1033,m3,65,0.00,4.20,4.00,8.71,8997.43,2.20,19.11,23.2577,24025.2
+547,1621.10,Kanaalikaivu,3.0-3.1 tonttihaara Nikkarintie,savi,190,m3,65,0.00,4.20,4.00,8.71,1654.9,2.20,19.11,23.2577,4418.96
+548,1621.10,Kanaalikaivu,3.0-3.1 tonttihaara Nikkarintie,savi,25,m3,65,0.00,4.20,4.00,8.71,217.75,2.20,19.11,23.2577,581.44
+550,1621.10,Kanaalikaivu,6.0-6.1 Ylätie,savi,781,m3,65,0.00,4.20,4.00,8.71,6802.51,2.20,19.11,23.2577,18164.26
+552,1621.10,Kanaalikaivu,6.0-6.1 tonttihaara Ylätie,savi,132,m3,65,0.00,4.20,4.00,8.71,1149.72,2.20,19.11,23.2577,3070.02
+554,1621.10,Kanaalikaivu,6.0-6.1 tonttihaara Ylätie,savi,50,m3,65,0.00,4.20,4.00,8.71,435.5,2.20,19.11,23.2577,1162.88
+556,1621.10,Kanaalikaivu,6.2-6.21 Raimelantie,savi,228,m3,65,0.00,4.20,4.00,8.71,1985.88,2.20,19.11,23.2577,5302.76
+558,1621.10,Kanaalikaivu,6.2-6.21 tonttihaara Raimelantie,savi,23,m3,65,0.00,4.20,4.00,8.71,200.33,2.20,19.11,23.2577,534.93
+571,1831.80,kiviainesarina,3.0-3.1 Nikkarintie,kam0_32,0,m3,53,13.23,0.00,4.00,8.71,0,3.30,29.24,,
+572,1831.80,kiviainesarina,3.0-3.1 Nikkarintie,kam0_32,103,m3,53,13.23,0.00,4.00,8.71,897.13,3.30,29.24,34.0968,3511.97
+573,1831.80,kiviainesarina,3.0-3.1 Nikkarintie,kam0_32,3,m3,53,13.23,0.00,4.00,8.71,26.13,3.30,29.24,34.0968,102.29
+574,1831.80,kiviainesarina,3.0-3.1 tonttihaara,kam0_32,19,m3,53,13.23,0.00,4.00,8.71,165.49,3.30,29.24,34.0968,647.84
+575,1831.80,kiviainesarina,3.0-3.1 tonttihaara,kam0_32,3,m3,53,13.23,0.00,4.00,8.71,26.13,3.30,29.24,34.0968,102.29
+576,1831.80,kiviainesarina,6.0-6.1 Ylätie,kam0_32,8,m3,53,13.23,0.00,4.00,8.71,69.68,3.30,29.24,34.0968,272.77
+577,1831.80,kiviainesarina,6.0-6.1 Ylätie,kam0_32,78,m3,53,13.23,0.00,4.00,8.71,679.38,3.30,29.24,34.0968,2659.55
+578,1831.80,kiviainesarina,6.0-6.1 tonttihaara Ylätie,kam0_32,0,m3,53,13.23,0.00,4.00,8.71,0,3.30,29.24,,
+579,1831.80,kiviainesarina,6.0-6.1 tonttihaara Ylätie,kam0_32,13,m3,53,13.23,0.00,4.00,8.71,113.23,3.30,29.24,34.0968,443.26
+580,1831.80,kiviainesarina,6.0-6.1 tonttihaara Ylätie,kam0_32,0,m3,53,13.23,0.00,4.00,8.71,0,3.30,29.24,,
+581,1831.80,kiviainesarina,6.0-6.1 tonttihaara Ylätie,kam0_32,5,m3,53,13.23,0.00,4.00,8.71,43.55,3.30,29.24,34.0968,170.48
+582,1831.80,kiviainesarina,6.2-6.21 Raimelantie,kam0_32,12,m3,53,13.23,0.00,4.00,8.71,104.52,3.30,29.24,34.0968,409.16
+583,1831.80,kiviainesarina,6.2-6.21 Raimelantie,kam0_32,23,m3,53,13.23,0.00,4.00,8.71,200.33,3.30,29.24,34.0968,784.23
+584,1831.80,kiviainesarina,6.2-6.21 tonttihaara Raimelantie,kam0_32,2,m3,53,13.23,0.00,4.00,8.71,17.42,3.30,29.24,34.0968,68.19
+585,1831.80,kiviainesarina,6.2-6.21 tonttihaara Raimelantie,kam0_32,2,m3,53,13.23,0.00,4.00,8.71,17.42,3.30,29.24,34.0968,68.19
+707,2131,Sitomaton kantava kerros KaM 0-32,6.0-6.1 katu Ylätie,kam0_32,182,m3,53,13.23,0.00,4.00,8.71,1585.22,3.30,29.24,34.0968,6205.62
+708,2131,Sitomaton kantava kerros KaM 0-32,3.0-3.1 katu Nikkarintie,kam0_32,60,m3,53,13.23,0.00,4.00,8.71,522.6,3.30,29.24,34.0968,2045.81
+709,2131,Sitomaton kantava kerros KaM 0-32,6.2-6.21 katu Raimelantie,kam0_32,70,m3,53,13.23,0.00,4.00,8.71,609.7,3.30,29.24,34.0968,2386.78
+598,1831.20,alkutäyttö,3.0-3.1 Nikkarintie,leikkausmaa,1,m3,53,0.00,0.00,2.00,8.71,8.71,3.30,14.01,17.8007,17.8
+599,1831.20,alkutäyttö,3.0-3.1 Nikkarintie,leikkausmaa,341,m3,53,0.00,0.00,2.00,8.71,2970.11,3.30,14.01,17.8007,6070.04
+600,1831.20,alkutäyttö,3.0-3.1 Nikkarintie,leikkausmaa,11,m3,53,0.00,0.00,2.00,8.71,95.81,3.30,14.01,17.8007,195.81
+601,1831.20,alkutäyttö,3.0-3.1 tonttihaara Nikkarintie,leikkausmaa,63,m3,53,0.00,0.00,2.00,8.71,548.73,3.30,14.01,17.8007,1121.44
+602,1831.20,alkutäyttö,3.0-3.1 tonttihaara Nikkarintie,leikkausmaa,8,m3,53,0.00,0.00,2.00,8.71,69.68,3.30,14.01,17.8007,142.41
+603,1831.20,alkutäyttö,6.0-6.1 Ylätie,leikkausmaa,26,m3,53,0.00,0.00,2.00,8.71,226.46,3.30,14.01,17.8007,462.82
+604,1831.20,alkutäyttö,6.0-6.1 Ylätie,leikkausmaa,258,m3,53,0.00,0.00,2.00,8.71,2247.18,3.30,14.01,17.8007,4592.58
+605,1831.20,alkutäyttö,6.0-6.1 tonttihaara Ylätie,leikkausmaa,1,m3,53,0.00,0.00,2.00,8.71,8.71,3.30,14.01,17.8007,17.8
+606,1831.20,alkutäyttö,6.0-6.1 tonttihaara Ylätie,leikkausmaa,44,m3,53,0.00,0.00,2.00,8.71,383.24,3.30,14.01,17.8007,783.23
+607,1831.20,alkutäyttö,6.0-6.1 tonttihaara Ylätie,leikkausmaa,0,m3,53,0.00,0.00,2.00,8.71,0,3.30,14.01,,
+608,1831.20,alkutäyttö,6.0-6.1 tonttihaara Ylätie,leikkausmaa,17,m3,53,0.00,0.00,2.00,8.71,148.07,3.30,14.01,17.8007,302.61
+609,1831.20,alkutäyttö,6.2-6.21 Raimelantie,leikkausmaa,40,m3,53,0.00,0.00,2.00,8.71,348.4,3.30,14.01,17.8007,712.03
+610,1831.20,alkutäyttö,6.2-6.21 Raimelantie,leikkausmaa,75,m3,53,0.00,0.00,2.00,8.71,653.25,3.30,14.01,17.8007,1335.05
+611,1831.20,alkutäyttö,6.2-6.21 tonttihaara Raimelantie,leikkausmaa,5,m3,53,0.00,0.00,2.00,8.71,43.55,3.30,14.01,17.8007,89
+612,1831.20,alkutäyttö,6.2-6.21 tonttihaara Raimelantie,leikkausmaa,8,m3,53,0.00,0.00,2.00,8.71,69.68,3.30,14.01,17.8007,142.41
+625,1833,lopputäyttö,3.0-3.1 Nikkarintie,kam0_90,2,m3,53,9.45,0.00,4.00,8.71,17.42,3.30,25.46,30.0522,60.1
+626,1833,lopputäyttö,3.0-3.1 Nikkarintie,kam0_90,589,m3,53,9.45,0.00,4.00,8.71,5130.19,3.30,25.46,30.0522,17700.75
+627,1833,lopputäyttö,3.0-3.1 Nikkarintie,kam0_90,19,m3,53,9.45,0.00,4.00,8.71,165.49,3.30,25.46,30.0522,570.99
+628,1833,lopputäyttö,3.0-3.1 tonttihaara Nikkarintie,kam0_90,108,m3,53,9.45,0.00,4.00,8.71,940.68,3.30,25.46,30.0522,3245.64
+629,1833,lopputäyttö,3.0-3.1 tonttihaara Nikkarintie,kam0_90,14,m3,53,9.45,0.00,4.00,8.71,121.94,3.30,25.46,30.0522,420.73
+630,1833,lopputäyttö,6.0-6.1 Ylätie,kam0_90,46,m3,53,9.45,0.00,4.00,8.71,400.66,3.30,25.46,30.0522,1382.4
+631,1833,lopputäyttö,6.0-6.1 Ylätie,kam0_90,445,m3,53,9.45,0.00,4.00,8.71,3875.95,3.30,25.46,30.0522,13373.23
+632,1833,lopputäyttö,6.0-6.1 tonttihaara Ylätie,kam0_90,2,m3,53,9.45,0.00,4.00,8.71,17.42,3.30,25.46,30.0522,60.1
+633,1833,lopputäyttö,6.0-6.1 tonttihaara Ylätie,kam0_90,75,m3,53,9.45,0.00,4.00,8.71,653.25,3.30,25.46,30.0522,2253.92
+634,1833,lopputäyttö,6.0-6.1 tonttihaara Ylätie,kam0_90,1,m3,53,9.45,0.00,4.00,8.71,8.71,3.30,25.46,30.0522,30.05
+635,1833,lopputäyttö,6.0-6.1 tonttihaara Ylätie,kam0_90,29,m3,53,9.45,0.00,4.00,8.71,252.59,3.30,25.46,30.0522,871.51
+636,1833,lopputäyttö,6.2-6.21 Raimelantie,kam0_90,70,m3,53,9.45,0.00,4.00,8.71,609.7,3.30,25.46,30.0522,2103.65
+637,1833,lopputäyttö,6.2-6.21 Raimelantie,kam0_90,130,m3,53,9.45,0.00,4.00,8.71,1132.3,3.30,25.46,30.0522,3906.79
+638,1833,lopputäyttö,6.2-6.21 tonttihaara Raimelantie,kam0_90,9,m3,53,9.45,0.00,4.00,8.71,78.39,3.30,25.46,30.0522,270.47
+639,1833,lopputäyttö,6.2-6.21 tonttihaara Raimelantie,kam0_90,13,m3,53,9.45,0.00,4.00,8.71,113.23,3.30,25.46,30.0522,390.68
+712,2121,Jakava kerros,6.0-6.1 katu Ylätie,kam0_90,484,m3,53,9.45,0.00,4.00,8.71,4215.64,3.30,25.46,30.0522,14545.26
+713,2121,Jakava kerros,3.0-3.1 katu Nikkarintie,kam0_90,160,m3,53,9.45,0.00,4.00,8.71,1393.6,3.30,25.46,30.0522,4808.35
+714,2121,Jakava kerros,6.2-6.21 katu Raimelantie,kam0_90,186,m3,53,9.45,0.00,4.00,8.71,1620.06,3.30,25.46,30.0522,5589.71
+652,3132.8,ilmapoistokaivo,7.0-8.0,ilmanpoistokaivo,1,kpl,54,1000.00,0.00,0.00,61.00,61,110.00,1171.00,1272.66,1272.66
+653,3132.4,palopostin poisto,7.0-8.0,palopostin poisto,2,kpl,65,0.00,0.00,0.00,61.00,122,66.00,127.00,155.58,311.16
+654,3132.4,betonikaivon_sementtivuoraus,7.0-8.0,betonikaivon_sementtivuoraus,6,kpl,54,800.00,0.00,0.00,610.00,3660,660.00,2070.00,2411.78,14470.68
+657,3113.4,Jateveden tarkastusputki,6.0-6.1 Ylätie,jvtp,16,kpl,54,110.00,0.00,0.00,20.33,325.28,47.14,177.47,196.4529,3143.25
+658,3113.4,Jateveden tarkastusputki,3.0-3.1 Nikkarintie,jvtp,13,kpl,54,110.00,0.00,0.00,20.33,264.29,47.14,177.47,196.4529,2553.89
+659,3113.4,Jateveden tarkastusputki,6.2-6.21 Raimelantie,jvtp,1,kpl,54,110.00,0.00,0.00,20.33,20.33,47.14,177.47,196.4529,196.45
+672,3132.1,Talosulkuventtiili,6.0-6.1 Ylätie,vj_venttiili,16,kpl,54,0.00,0.00,0.00,,0,66.00,66.00,70.62,1129.92
+673,3132.1,Talosulkuventtiili,3.0-3.1 Nikkarintie,vj_venttiili,13,kpl,54,0.00,0.00,0.00,,0,66.00,66.00,70.62,918.06
+674,3132.1,Talosulkuventtiili,6.2-6.21 Raimelantie,vj_venttiili,1,kpl,54,0.00,0.00,0.00,,0,66.00,66.00,70.62,70.62
+677,14210,Lämpöeriste 50 mm,6.0-6.1 Ylätie,lampoeriste_50,38,m2,51,7.00,0.00,0.00,,0,3.30,10.30,11.021,418.8
+678,14210,Lämpöeriste 50 mm,3.0-3.1 Nikkarintie,lampoeriste_50,23,m2,51,7.00,0.00,0.00,,0,3.30,10.30,11.021,253.48
+681,14210,Lämpöeriste 100 mm,3.0-3.1 Nikkarintie,lampoeriste_100,9,m2,51,13.00,0.00,0.00,,0,3.30,16.30,17.441,156.97
+684,1837,Johtokaivantojen virtausulku,6.0-6.1 Ylätie,virtaussulku,1,kpl,65,0.00,0.00,0.00,61.00,61,33.00,94.00,120.27,120.27
+685,1837,Johtokaivantojen virtausulku,3.0-3.1 Nikkarintie,virtaussulku,3,kpl,65,0.00,0.00,0.00,61.00,183,33.00,94.00,120.27,360.81
+686,1837,Johtokaivantojen virtausulku,6.2-6.21 Raimelantie,virtaussulku,1,kpl,65,0.00,0.00,0.00,61.00,61,33.00,94.00,120.27,120.27
+688,,Salaojan korjaus,6.0-6.1 Ylätie,salaojan_korjaus,1,kpl,53,0.00,0.00,0.00,244.00,244,132.00,376.00,481.07,481.07
+689,,Salaojan korjaus,3.0-3.1 Nikkarintie,salaojan_korjaus,1,kpl,53,0.00,0.00,0.00,244.00,244,132.00,376.00,481.07,481.07
+692,1631,Tuentaelementti,6.0-6.1 Ylätie,tuentaelementti,1210,m2,69,0.00,0.00,1.00,05.08,6146.8,2.20,8.28,10.4996,12704.52
+693,1631,Tuentaelementti,3.0-3.1 Nikkarintie,tuentaelementti,1375,m2,69,0.00,0.00,1.00,05.08,6985,2.20,8.28,10.4996,14436.95
+694,1631,Tuentaelementti,6.2-6.21 Raimelantie,tuentaelementti,465,m2,69,0.00,0.00,1.00,05.08,2362.2,2.20,8.28,10.4996,4882.31
+697,2145.1,Sorapäällyste. KaM 0/12. 5 cm,6.0-6.1 katu Ylätie,sorapaallyste,1210,m2,57,0.70,0.00,0.25,1.74,2105.4,,2.69,3.4383,4160.34
+698,2145.1,Sorapäällyste. KaM 0/12. 5 cm,3.0-3.1 katu Nikkarintie,sorapaallyste,400,m2,57,0.70,0.00,0.25,1.74,696,,2.69,3.4383,1375.32
+699,2145.1,Sorapäällyste. KaM 0/12. 5 cm,6.2-6.21 katu Raimelantie,sorapaallyste,465,m2,57,0.70,0.00,0.25,1.74,809.1,,2.69,3.4383,1598.81
+702,1151,Asfalttipäällysteen poisto. kaatopaikalle,6.0-6.1 katu Ylätie,asfaltin_poisto,1210,m2,65,0.00,0.00,0.80,0.68,822.8,,1.48,1.8036,2182.36
+703,1151,Asfalttipäällysteen poisto. kaatopaikalle,3.0-3.1 katu Nikkarintie,asfaltin_poisto,400,m2,65,0.00,0.00,0.80,0.68,272,,1.48,1.8036,721.44
+704,1151,Asfalttipäällysteen poisto. kaatopaikalle,6.2-6.21 katu Raimelantie,asfaltin_poisto,465,m2,65,0.00,0.00,0.80,0.68,316.2,,1.48,1.8036,838.67
+717,21120,Suodatinkangas,6.0-6.1 katu Ylätie,suodatinkangas_n3,1210,m3,51,0.80,0.00,0.00,,0,0.33,1.13,1.2091,1463.01
+718,21120,Suodatinkangas,3.0-3.1 katu Nikkarintie,suodatinkangas_n3,400,m3,51,0.80,0.00,0.00,,0,0.33,1.13,1.2091,483.64
+719,21120,Suodatinkangas,6.2-6.21 katu Raimelantie,suodatinkangas_n3,465,m3,51,0.80,0.00,0.00,,0,0.33,1.13,1.2091,562.23
+725,16110,Maaleikkaus,6.0-6.1 katu Ylätie,rakennekerrosten_poisto,484,m3,65,0.00,0.00,2.00,8.71,4215.64,2.20,12.91,16.6237,8045.87
+726,16110,Maaleikkaus,3.0-3.1 katu Nikkarintie,rakennekerrosten_poisto,160,m3,65,0.00,0.00,2.00,8.71,1393.6,2.20,12.91,16.6237,2659.79
+727,16110,Maaleikkaus,6.2-6.21 katu Raimelantie,rakennekerrosten_poisto,186,m3,65,0.00,0.00,2.00,8.71,1620.06,2.20,12.91,16.6237,3092.01
+728,,Pylvään siirto,6.2-6.21 katu Raimelantie,pylvas_siirto,1,kpl,65,0.00,1000.00,0.00,122.00,122,66.00,1188.00,1310.54,1310.54

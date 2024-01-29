@@ -1,0 +1,2 @@
+kohteen_nimi,konetyö_tuntihinta,kone_tehtävä,miestyö_tuntihinta,mies_tehtävä,kuljetus_tuntihinta,auto_tehtävä,työpäivän_pituus_h,jaetun_tehtävän_pituus,Aloituspäivämäärä,csv_laskentatiedoston_nimi,csv_tulosteen_nimi
+Vasaramäki 4,65,1,33,1,65,1,8,10,22.1.2024,Vasaramäki_4.csv,ohjelman_tulos.csv

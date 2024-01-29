@@ -1,0 +1,104 @@
+,0,32.00,32.00,34.88,976.64,,,,,,,,,,,
+429,1131,Kaivon kansiston säätö (korkeuden muutos) yksikköhinnalla,Ylitalonkatu,kaivon_kansiston_saato,8,kpl,65,0.00,0.00,0.00,,0,32.00,32.00,34.88,279.04
+361,1131,Kaivon kansiston vaihto yksikköhinnalla,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kaivon_kansiston_vaihto,2,kpl,54,150.00,0.00,0.00,,0,64.00,214.00,233.26,466.52
+362,1131,Kaivon poisto sis. Purku vastaanotto ja kuopan täyttö betonikaivo,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kaivon_poisto,2,kpl,65,0.00,0.00,0.00,640.00,1280,320.00,960.00,1352.65,2705.3
+430,1131,Kaivon poisto sis. purku vastaanotto ja kuopan täyttö betonikaivo,Ylitalonkatu,kaivon_poisto,8,kpl,65,0.00,0.00,0.00,640.00,5120,320.00,960.00,1352.65,10821.2
+363,1131,Putken purku sis. kaivu ja täyttö betoniputki käytöstä poistettu HV-viemäri kasvualusta,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,putken_purku,4,mtr,65,0.00,0.00,0.00,320.00,1280,160.00,480.00,676.32,2705.28
+364,1135,Liik.merkin poisto sis vakiomerkki pylväs ja jalusta,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,liikennemerkin_poisto,9,kpl,65,0.00,0.00,0.00,64.00,576,32.00,96.00,135.26,1217.34
+365,1135,Liik.merkin siirto sis vakiomerkki pylväs ja jalusta,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,liikennemerkin_siirto,2,kpl,65,0.00,0.00,0.00,64.00,128,64.00,128.00,170.14,340.28
+366,1142,Rakennekerrosten poisto erittelemätön ei sis vastaanottoa,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,rakennekerrosten_poisto,20,m3ktr,65,0.00,0.00,8.00,10.67,213.4,2.13,20.80,27.772,555.44
+431,1142,Rakennekerrosten poisto ja kuljetus loppusijoitukseen sis. vastaanottomaksu kantava maa-aines,Ylitalonkatu,rakennekerrosten_poisto,1455,m3ktr,65,0.00,0.00,8.00,10.67,15524.85,2.13,20.80,27.772,40408.26
+367,1151,Asfaltin jyrsintä 4 cm kulj. loppusijoitukseen sis vastottomaksu 2000-5000 m2,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,asfaltin_jyrsinta,3790,m2tr,61,0.00,3.50,0.00,,0,,3.50,3.815,14458.85
+368,1151,Asfaltin poisto kaivamalla h=5 cm määrä <500 m2 loppusijoitus sis vastottomaksu,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,asfaltin_poisto,1230,m2tr,65,0.00,0.00,1.00,2.56,3148.8,,3.56,5.1104,6285.79
+432,1151,Asfaltin poisto (kaivamalla) h = 10 cm poistettava määrä < 500 m2 kuljetus loppusijoitukseen sis. vasta,Ylitalonkatu,asfaltin_poisto,2581,m2tr,65,0.00,0.00,1.00,2.56,6607.36,,3.56,5.1104,13189.94
+369,1151,Betonikiveyksen poisto kuljetus loppusijoitukseen,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,betonikiveyksen_poisto,1040,m2tr,65,0.00,0.00,2.00,2.13,2215.2,01.07,5.20,6.688,6955.52
+433,1151,Betonikiveyksen poisto ja kuljetus loppusijoitukseen,Ylitalonkatu,betonikiveyksen_poisto,1378,m2tr,65,0.00,0.00,2.00,2.13,2935.14,01.07,5.20,6.688,9216.06
+370,1159,Reunatuen poisto liimattava reunatuki,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,reunatuen_poisto_liimattava,955,mtr,65,0.00,1.00,5.00,4.27,4077.85,2.13,12.40,15.556,14855.98
+434,1159,Reunatuen poisto liimattava reunatuki,Ylitalonkatu,reunatuen_poisto_liimattava,972,mtr,65,0.00,1.00,5.00,4.27,4150.44,2.13,12.40,15.556,15120.43
+371,1331.1,Kiviainesarina KaM 0-32,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kam0_32,5,m3rtr,53,0.00,0.00,9.00,10.67,53.35,5.33,25.00,32.35,161.75
+384,2131,Sitomaton kantava kerros KaM 0-32,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kam0_32,15,m3rtr,53,0.00,0.00,9.00,10.67,160.05,5.33,25.00,32.35,485.25
+437,1831,Asennusalusta putkien tai rakenteiden alusta,Ylitalonkatu,kam0_32,6,m3rtr,53,0.00,0.00,9.00,10.67,64.02,5.33,25.00,32.35,194.1
+442,2131,Sitomaton kantava kerros,Ylitalonkatu,kam0_32,566,m3rtr,53,0.00,0.00,9.00,10.67,6039.22,5.33,25.00,32.35,18310.1
+443,2131,Sitomaton kantava kerros,Ylitalonkatu,kam0_32,33,m3rtr,53,0.00,0.00,9.00,10.67,352.11,5.33,25.00,32.35,1067.55
+372,1431.1,Aluesalaoja kaivu ja täyttö 110/95 mm SNS tuplasalaojaputki,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,aluesalaoja_110,15,mtr,54,2.00,0.00,0.00,,0,5.33,7.33,7.9897,119.85
+373,1433,Salaojan tarkastusputki 200/160/110 mm sis kansisto muovi PE,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,salaojan_tarkastusputki_200_110,1,kpl,64,150.00,0.00,0.00,,0,32.00,182.00,198.38,198.38
+374,1613,Maaleikkaus kuljetus läjitykseen,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,moreeni,100,m3ktr,65,0.00,0.00,10.00,16.00,1600,3.20,29.20,39.488,3948.8
+375,1621,Kaapelikaivanto ja täyttö ei sis kaapelia tai suojaputkea mtr,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,moreeni,455,mtr,65,0.00,0.00,10.00,16.00,7280,3.20,29.20,39.488,17967.04
+435,1613,Maaleikkaus kuljetus läjitykseen,Ylitalonkatu,moreeni,162,m3ktr,65,0.00,0.00,10.00,16.00,2592,3.20,29.20,39.488,6397.06
+376,1621,Putkikaivanto tuettu kulj loppusijoitukseen sis vastottomaksu kantava aines,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,savi,25,m3ktr,65,0.00,0.00,9.00,12.80,320,2.13,23.93,32.2037,805.09
+377,1623.1,Istutuskaivanto kuljetus loppusijoitukseen sis vastottomaksu savi,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,savi,33,m3ktr,65,0.00,0.00,9.00,12.80,422.4,2.13,23.93,32.2137,1063.05
+436,1621,Putkikaivanto kuljetus läjitykseen/välivarastoon,Ylitalonkatu,savi,53,m3ktr,65,0.00,0.00,9.00,12.80,678.4,2.13,23.93,32.2137,1707.33
+378,1831,Asennusalusta putkien tai rakenteiden alusta KaM 0-16,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kam0_16,3,m3rtr,53,0.00,0.00,9.00,10.67,32.01,5.33,25.00,32.35,97.05
+379,1832,Alkutäyttö putki- rumpu- ja johtokaivannon täyttö KaM 0-16,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kam0_16,5,m3rtr,53,0.00,0.00,9.00,10.67,53.35,5.33,25.00,32.35,161.75
+380,1833,Lopputäyttö putki- rumpu- ja johtokaivannon täyttö sora 0-16,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kam0_16,15,m3rtr,53,0.00,0.00,9.00,10.67,160.05,5.33,25.00,32.35,485.25
+438,1832,Alkutäyttö putki- rumpu- ja johtokaivannon täyttörakenne,Ylitalonkatu,kam0_16,27,m3rtr,53,0.00,0.00,9.00,10.67,288.09,5.33,25.00,32.35,873.45
+449,2145.3,Murskepäällyste m2tr paksuus 100 mm (liikunta- ja virkistyspaikat; raitit),Ylitalonkatu,kam0_16,7,m2tr,53,0.00,0.00,9.00,10.67,74.69,5.33,25.00,32.35,226.45
+381,2112,Suodatinkangas N3 kiviainesarina,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,SuodatinkangasN3,240,m2tr,51,1.00,0.00,0.00,,0,0.32,1.32,1.4388,345.31
+382,2112,Suodatinkangas N3 kantava kasvualusta,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,SuodatinkangasN3,70,m2tr,51,1.00,0.00,0.00,,0,0.32,1.32,1.4388,100.72
+383,2121,Jakava kerros KaM 0-63,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kam0_63,75,m3rtr,53,0.00,0.00,9.00,10.67,800.25,5.33,25.00,32.35,2426.25
+441,2121,Jakava kerros,Ylitalonkatu,kam0_63,1013,m3rtr,53,0.00,0.00,9.00,10.67,10808.71,5.33,25.00,32.35,32770.55
+385,2141.1,Asfalttibetonirakenne liimaus alue 1000-15000 m2,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,ab_liimaus,3840,m2tr,61,0.00,0.35,0.00,,0,,0.35,0.3815,1464.96
+387,2141.11,Kulutuskerroksen asfalttibetoni AB 11 40 mm (n. 100 kg/m2) < 1000 m2 liikennöity alue,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,ab11_40mm,183,m2tr,61,0.00,12.55,0.00,,0,,12.55,13.6795,2503.35
+388,2141.11,Massatasaus TAS alue < 1000 m2,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,tas,0,,61,0.00,50.00,0.00,,0,,50.00,54.5,0
+389,2141.3,Kivimastiksiasfaltti (SMA) 16 40 mm (n. 100 kg/m2) 1000-15000 m2 liikennöity alue,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,sma16_0,2390,m2tr,61,0.00,12.05,0.00,,0,,12.05,13.1345,31391.46
+390,2143.11,Betonikivipäällyste betonikivi 80 mm harmaa sileä,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,betonikivi_80mm,4,m2tr,57,38.80,0.00,0.00,,0,,38.80,42.292,169.17
+391,2143.11,Betonikivipäällyste taustanupu 150 mm harmaa sileä,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,taustanupu150mm,690,mtr,57,21.00,0.00,0.00,,0,,21.00,22.89,15794.1
+392,2143.11,Betonilaattapäällyste 50 mm harmaa sileä,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,betonilaatta_50mm_harmaa,2125,m2tr,57,26.50,0.00,0.00,,0,,26.50,28.885,61380.62
+393,2143.11,Betonilaattapäällyste 80 mm harmaa sileä,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,betonilaatta_80mm_harmaa,100,m2tr,57,31.00,0.00,0.00,,0,,31.00,33.79,3379
+394,2143.11,Betonilaattapäällyste betonilaatta BO mm värillinen profiloitu,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,betonilaatta_varillinen_profiloitu,15,m2tr,57,148.50,0.00,0.00,,0,,148.50,161.865,2427.98
+395,2211.21,Reunatuki upotettava betoninen suora 170x300 mm harmaa,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,bet_reunakivi_upotettava_170_300,18,mtr,57,34.50,0.00,0.00,,0,,34.50,37.605,676.89
+396,2211.22,Reunatuki liimattava betoninen suora 120x130 mm harmaa,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,bet_reunakivi_liimattava_120_130,72,mtr,57,15.00,0.00,0.00,,0,,15.00,16.35,1177.2
+397,2211.22,Reunatuki liimattava betoninen suora 60x130 mm harmaa,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,bet_reunakivi_liimattava_60_130,16,mtr,57,15.00,0.00,0.00,,0,,15.00,16.35,261.6
+398,2211.22,Reunatuki liimattava betoninen suora 80x130 mm harmaa,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,bet_reunakivi_liimattava_80_130,893,mtr,57,14.00,0.00,0.00,,0,,14.00,15.26,13627.18
+450,2211.22,Reunatuki liimattava betoninen reunatuki,Ylitalonkatu,bet_reunakivi_liimattava_80_130,1002,mtr,57,14.00,0.00,0.00,,0,,14.00,15.26,15290.52
+399,2311.1,Tuotteistettu kasvualusta 150 mm nurmikko R4 kuiva niitty,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kasvualusta_r4,140,m2tr,57,5.00,0.00,0.00,,0,,5.00,5.45,763
+400,2311.1,Tuotteistettu kasvualusta 150 mm nurmikko R4 kuiva niitty kunnostettava nurmikko,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kasvualusta_r4,160,m2tr,57,5.00,0.00,0.00,,0,,5.00,5.45,872
+401,2311.3,Kantava kasvualusta biohiili,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kasvualusta_biohiili,35,m3rtr,57,50.00,0.00,0.00,,0,,50.00,54.5,1907.5
+402,2311.3,Ilmastus- ja kastelukaivo,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,ilmastus_kastelukaivo,2,kpl,57,200.00,0.00,0.00,,0,,200.00,218,436
+403,2311.3,Ilmastus- ja kastelukerros KaM 32-64,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kam32_64,7,m3rtr,53,0.00,0.00,9.00,10.67,74.69,5.33,25.00,32.35,226.45
+404,2312,Kate sepeli m3rtr,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,katesepeli,1,m3rtr,53,0.00,0.00,9.00,10.67,10.67,5.33,25.00,32.35,32.35
+405,2321.1,Kylvönurmikko kunnossapitoluokka R4,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,nurmikko_r4,300,m2tr,57,2.00,0.00,0.00,1.28,384,0.64,3.92,4.8828,1464.84
+406,2331,Kastelupussi,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kastelupussi,3,kpl,57,50.00,0.00,0.00,,0,32.00,82.00,89.38,268.14
+407,2331,Puun tuholaissuoja,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,puun_tuholaisuoja,3,kpl,57,50.00,0.00,0.00,,0,32.00,82.00,89.38,268.14
+408,2331.2,Katupuu lehtipuu < 7 m rym 12-14 cm tilaaja hankkii,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,katupuu_7m,3,kpl,57,150.00,0.00,0.00,,0,160.00,310.00,337.9,1013.7
+409,2331.2,Katupuun maaritilä juuristosuoja 1500x1500 mm sis asennuskehikko,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,katupuun_juuristosuoja,3,kpl,57,50.00,0.00,0.00,,0,32.00,82.00,89.38,268.14
+410,2331.2,Puun runkosuoja metallinen yksikköhinnalla,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,puun_runkosuoja,3,kpl,57,50.00,0.00,0.00,,0,32.00,82.00,89.38,268.14
+411,3121.11,Hulevesiviemäri vietto betoniputki 225 mm B pyöreä,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,hvb_225mm,5,mtr,54,35.00,0.00,0.00,6.40,32,16.00,57.40,65.626,328.13
+412,3122.4,Hulevesikaivo betoniset valmisosat sis teleskooppi 0=800 mm h=2 m,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,hvkb_800,4,kpl,54,650.00,0.00,0.00,128.00,512,64.00,842.00,979.03,3916.12
+413,3125,HV-viemärin liitos betonikaivoon reiän poraus (timanttiporaus),Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,timanttiporaus,0,kpl,64,0.00,150.00,0.00,,0,32.00,182.00,198.38,0
+414,3125,Liitos: HV-viemärin liitos nykyiseen viemäriin yksikköhinnalla,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,liitos_hv,4,kpl,64,0.00,150.00,0.00,,0,32.00,182.00,198.38,793.52
+415,3261.2,Liikennemerkin vakiomerkki ei sis jalusta ja pylväs liikennemerkki 600-640 mm R2,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,liikennemerkki_600_640r2,5,kpl,57,92.00,0.00,0.00,,0,32.00,124.00,135.16,675.8
+416,3261.2,Liikennemerkki sis vakiomerkki jalusta ja pylväs liikennemerkki 600-640 mm R2,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,liikennemerkki_600_640r2,12,kpl,57,92.00,0.00,0.00,,0,32.00,124.00,135.16,1621.92
+417,3261.2,Liikennemerkki sis vakiomerkki jalusta pylväs liik.merkki 900 mm R2 varoi- ja väistämis,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,liikennemerkki_900r2,2,kpl,57,92.00,0.00,0.00,,0,32.00,124.00,135.16,270.32
+418,3261.3,Opastusmerkki 2-4 m2 R2 sis opastustaulu jalustat pylväät ja kiinnikkeet,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,opastusmerkki_r2,2,kpl,57,92.00,0.00,0.00,,0,32.00,124.00,135.16,270.32
+419,3263.1,Pyöräsymboli kestomerkintä yksikköhinnalla,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,pyorasymboli,12,kpl,57,92.00,0.00,0.00,,0,,92.00,100.28,1203.36
+420,3263.77,Ajokaistaviiva pituus 70 m väli 70 m leveys 02 m yksikköhinnalla,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,ajokaistaviiva,700,mtr,57,2.00,0.00,0.00,,0,,2.00,2.18,1526
+421,3263.2,Pienmerkintä kestomerkintä yksikköhinnalla maalatut nopeusmerkit,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,maalatut_nopeusmerkit,4,kpl,57,110.00,0.00,0.00,,0,,110.00,119.9,479.6
+422,3263.21,Suojatie yksikköhinnalla,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,suojatie,30,m2tr,57,7.00,0.00,0.00,,0,,7.00,7.63,228.9
+461,3263.21,Suojatie yksikköhinnalla,Ylitalonkatu,suojatie,6,m2tr,57,7.00,0.00,0.00,,0,,7.00,7.63,45.78
+423,3321.11,Kaapelikaivannon suojaputki muovi TEL PVC 110x32 mm B sis tiiviste,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kaapelisuojaputki_tel_110_lk_b,824,mtr,54,5.00,0.00,0.00,,0,5.33,10.33,11.2597,9277.99
+424,3321.11,Kaapelikaivannon suojaputki muovi TEL PVC 110x53 mm A sis tiiviste,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,kaapelisuojaputki_tel_110_lk_a,80,mtr,54,5.00,0.00,0.00,,0,5.33,10.33,11.2597,900.78
+425,3360,Valaistusrakenteet,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,valaistusrakenteet,1,kpl,55,4500.00,0.00,0.00,,0,,4500.00,4905,4905
+426,1111,Pensasaidan suojaus,Ylitalonkatu,pensaiden_suojaus,300,mtr,65,0.00,0.00,0.00,4.27,1281,3.20,7.47,10.1823,3054.69
+427,1121,Tukimuurin suojaus,Ylitalonkatu,tukimuurin_suojaus,20,m,65,0.00,0.00,0.00,128.00,2560,64.00,192.00,270.53,5410.6
+428,1121,Tukimuurin suojaus,Ylitalonkatu,tukimuurin_suojaus,25,m,65,0.00,0.00,0.00,128.00,3200,64.00,192.00,270.53,6763.25
+439,1833,Lopputäyttö materiaali hankkeen sisältä,Ylitalonkatu,kaivumaa,19,m3rtr,53,0.00,0.00,9.00,12.80,243.2,5.33,27.13,35.7017,678.33
+440,2112,Suodatinkangas,Ylitalonkatu,suodatinkangas_kayttoluokka_n3,127,m2tr,51,1.00,0.00,9.00,10.67,1355.09,5.33,26.00,33.44,4246.88
+444,2141.11,Kulutuskerroksen asfalttibetoni AB 22 50 mm (n. 125 kg/m2) asfaltoitava alue 1000–15000 m2 liikennöity,Ylitalonkatu,ab_22_50mm,2556,m2tr,61,0.00,9.75,0.00,,0,,9.75,10.6275,27163.89
+446,2141.11,Kulutuskerroksen asfalttibetoni AB 22 50 mm (n. 125 kg/m2) asfaltoitava alue < 1000 m2 liikennöity alue,Ylitalonkatu,ab_22_50mm,171.5,m2tr,61,0.00,9.75,0.00,,0,,9.75,10.6275,1822.62
+445,2141.11,Kulutuskerroksen asfalttibetoni AB 11 50 mm (n. 125 kg/m2) asfaltoitava alue 1000–15000 m2 liikennöity,Ylitalonkatu,ab_11_50mm,982,m2tr,61,0.00,11.30,0.00,,0,,11.30,12.317,12095.29
+447,2143.11,Betonilaattapäällyste,Ylitalonkatu,betonilaatta_50_mm,87,m2tr,57,26.50,0.00,0.00,,0,,26.50,28.885,2513
+448,2143.11,Betonikivipäällyste,Ylitalonkatu,betonikivi_80_mm_harmaa_silea,44,m2tr,57,35.90,0.00,0.00,,0,,35.90,39.131,1721.76
+451,2311.1,Tuotteistettu kasvualusta 150 mm nurmikko R2-R3,Ylitalonkatu,kasvualusta_r2_r3,1064,m2tr,57,5.00,0.00,0.00,4.27,4543.28,2.13,11.40,14.466,15391.82
+452,2321.1,Kylvönurmikko hoitoluokka R3,Ylitalonkatu,nurmikkor3,1064,m2tr,57,25.00,0.00,0.00,0.43,457.52,0.43,25.86,28.3874,30204.19
+453,3121.12,Hulevesiviemäri (viettoviemäri),Ylitalonkatu,200_mm_PP_SN8,44,mtr,54,25.00,0.00,0.00,10.67,469.48,10.67,46.34,55.6106,2446.87
+454,3122.1,Tarkastuskaivo hulevesiviemäri,Ylitalonkatu,svtk560_500M,4,kpl,54,300.00,0.00,0.00,128.00,512,64.00,492.00,597.53,2390.12
+455,3122.5,Hulevesikaivo muovi,Ylitalonkatu,svk_560_500M,15,kpl,54,300.00,0.00,0.00,128.00,1920,64.00,492.00,597.53,8962.95
+456,3125,Liitosrakenne: hulevesiviemärin liitos nykyiseen viemäriin yksikköhinnalla,Ylitalonkatu,liitos_viemariin,8,kpl,54,350.00,0.00,0.00,64.00,512,32.00,446.00,516.76,4134.08
+457,3261.2,Liikennemerkki sis. vakiomerkki jalusta ja pylväs,Ylitalonkatu,liikennemerkki_600_640_mm_R2,12,kpl,54,0.00,0.00,0.00,64.00,768,64.00,128.00,170.14,2041.68
+459,3261.2,Liikennemerkin vakiomerkki ei sis. jalusta ja pylväs,Ylitalonkatu,liikennemerkki_600_640_mm_R2,2,kpl,54,0.00,0.00,0.00,64.00,128,64.00,128.00,170.14,340.28
+458,3261.2,Liikennemerkin lisäkilpi ei sis. jalusta ja pylväs,Ylitalonkatu,lisakilpi_320_320_mm_alumiini_R2,2,kpl,54,0.00,0.00,0.00,,0,64.00,64.00,69.76,139.52
+460,3261.2,Liikennemerkin lisäkilpi ei sis. jalusta ja pylväs,Ylitalonkatu,lisakilpi_600_250_mm_alumiini_R2,1,kpl,57,0.00,0.00,0.00,,0,64.00,64.00,69.76,69.76
+462,3321,Kaapelikaivannon suojaputki taipuisa yksikköhinnalla,Ylitalonkatu,kaapelisuojaputki,525,mtr,54,5.00,0.00,0.00,,0,8.00,13.00,14.17,7439.25
+463,3361,Pylväs: ajoratapylväs 8 m (sis. jalusta pylväs ja valaisinvarsi),Ylitalonkatu,ajopylvas,13,kpl,55,2000.00,0.00,0.00,,0,5.33,2005.33,2185.8097,28415.53
+386,2141.11,Kulutuskerroksen asfalttibetoni AB 11 40 mm (n. 100 kg/m2) 1000-15000 m2 pun. asfaltti,Inspehtorinkatu Civiksenpolku (osin) ja Kuikkulankatu,ab11_40mmpun,1450,m2tr,61,0.00,22.85,0.00,,0,,22.85,24.9065,36114.43

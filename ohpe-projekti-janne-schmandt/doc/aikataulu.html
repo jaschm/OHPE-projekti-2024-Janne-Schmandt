@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Python: module aikataulu</title>
+</head><body>
+
+<table class="heading">
+<tr class="heading-text decor">
+<td class="title">&nbsp;<br><strong class="title">aikataulu</strong></td>
+<td class="extra"><a href=".">index</a><br><a href="file:d%3A%5Cm%C3%A4%C3%A4r%C3%A4laskentamoduuli%5Cohpe-projekti-janne-schmandt%5Csrc%5Caikataulu.py">d:\määrälaskentamoduuli\ohpe-projekti-janne-schmandt\src\aikataulu.py</a></td></tr></table>
+    <p></p>
+<p>
+<table class="section">
+<tr class="decor pkg-content-decor heading-text">
+<td class="section-title" colspan=3>&nbsp;<br><strong class="bigsection">Modules</strong></td></tr>
+    
+<tr><td class="decor pkg-content-decor"><span class="code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td>&nbsp;</td>
+<td class="singlecolumn"><table><tr><td class="multicolumn"><a href="csv.html">csv</a><br>
+<a href="datetime.html">datetime</a><br>
+</td><td class="multicolumn"><a href="matplotlib.html">matplotlib</a><br>
+<a href="numpy.html">numpy</a><br>
+</td><td class="multicolumn"><a href="pandas.html">pandas</a><br>
+<a href="matplotlib.pyplot.html">matplotlib.pyplot</a><br>
+</td><td class="multicolumn"><a href="pydoc.html">pydoc</a><br>
+</td></tr></table></td></tr></table><p>
+<table class="section">
+<tr class="decor functions-decor heading-text">
+<td class="section-title" colspan=3>&nbsp;<br><strong class="bigsection">Functions</strong></td></tr>
+    
+<tr><td class="decor functions-decor"><span class="code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td>&nbsp;</td>
+<td class="singlecolumn"><dl><dt><a name="-aloitus_ja_valmis_päivämäärät"><strong>aloitus_ja_valmis_päivämäärät</strong></a>(luettava_tiedosto: str, kirjoitettava_tiedosto: str) -&gt; None</dt><dd><span class="code">Varsinainen&nbsp;aikataulu&nbsp;funktio,&nbsp;jonka&nbsp;parametreinä&nbsp;on&nbsp;kaksi&nbsp;<br>
+tiedostoa&nbsp;(tiedostopolkua&nbsp;eli&nbsp;str).&nbsp;Ensimmäinen&nbsp;luetaan&nbsp;ja&nbsp;toinen&nbsp;<br>
+kirjoitetaan.&nbsp;Eli&nbsp;ei&nbsp;palauta&nbsp;mitään&nbsp;arvoja&nbsp;vaan&nbsp;kirjoittaa&nbsp;uudet&nbsp;<br>
+arvot&nbsp;(aloitus&nbsp;ja&nbsp;valmis)&nbsp;tehtväville&nbsp;tiedostoon&nbsp;keston&nbsp;mukaan.<br>
+Huomioi&nbsp;Aloitus_2&nbsp;päivämäärän,&nbsp;jos&nbsp;sellainen&nbsp;osassa&nbsp;2&nbsp;annetaan.<br>
+Käyttää&nbsp;funktiota&nbsp;työpäivät&nbsp;valmis&nbsp;-arvon&nbsp;laskentaan.</span></dd></dl>
+ <dl><dt><a name="-kelpo_kokonaisluku"><strong>kelpo_kokonaisluku</strong></a>(prompt, minimi=None, maksimi=None)</dt><dd><span class="code">Tarkistetaan&nbsp;while&nbsp;silmukassa&nbsp;onko&nbsp;syöte&nbsp;kokonaisluku&nbsp;raja-arvojen,&nbsp;<br>
+minimi&nbsp;ja&nbsp;maksimi&nbsp;välillä,&nbsp;niin&nbsp;kauan&nbsp;kunnes&nbsp;saadaan&nbsp;"oikea"&nbsp;syöte.&nbsp;<br>
+Parametrit&nbsp;syöte,&nbsp;minimi&nbsp;ja&nbsp;maksimi.&nbsp;Palauttaa&nbsp;käyttäjän&nbsp;syötteen,<br>
+jos&nbsp;on&nbsp;kokonaisluku&nbsp;ja&nbsp;raja-arvojen&nbsp;välillä&nbsp;ja&nbsp;virheilmoituksen,&nbsp;jos&nbsp;ei.</span></dd></dl>
+ <dl><dt><a name="-kelpo_kokonaisluku_tiedostosta"><strong>kelpo_kokonaisluku_tiedostosta</strong></a>(value, minimi=None, maksimi=None)</dt><dd><span class="code">Tarkistaa&nbsp;onko&nbsp;(tiedostossa&nbsp;oleva)&nbsp;kokonaisluku&nbsp;raja-arvojen,&nbsp;<br>
+minimi&nbsp;ja&nbsp;maksimi&nbsp;välillä.&nbsp;Parametrit&nbsp;luku,&nbsp;minimi&nbsp;ja&nbsp;maksimi.&nbsp;<br>
+Palauttaa&nbsp;luvun,&nbsp;jos&nbsp;on&nbsp;kokonaisluku&nbsp;ja&nbsp;raja-arvojen&nbsp;välillä&nbsp;ja<br>
+virheilmoituksen,&nbsp;jos&nbsp;ei.</span></dd></dl>
+ <dl><dt><a name="-kelpo_luku"><strong>kelpo_luku</strong></a>(prompt, minimi=None, maksimi=None)</dt><dd><span class="code">Tarkistetaan&nbsp;while&nbsp;silmukassa&nbsp;onko&nbsp;syöte&nbsp;luku&nbsp;raja-arvojen,&nbsp;<br>
+minimi&nbsp;ja&nbsp;maksimi&nbsp;välillä,&nbsp;niin&nbsp;kauan&nbsp;kunnnes&nbsp;saadaan&nbsp;"oikea"&nbsp;syöte.&nbsp;<br>
+Parametrit&nbsp;syöte,&nbsp;minimi&nbsp;ja&nbsp;maksimi.&nbsp;Palauttaa&nbsp;käyttäjän&nbsp;syötteen,&nbsp;<br>
+jos&nbsp;on&nbsp;luku&nbsp;ja&nbsp;raja-arvojen&nbsp;välillä,&nbsp;palauttaa&nbsp;virheilmoituksen,&nbsp;jos&nbsp;ei.</span></dd></dl>
+ <dl><dt><a name="-kelpo_luku_tiedostosta"><strong>kelpo_luku_tiedostosta</strong></a>(value, minimi=None, maksimi=None)</dt><dd><span class="code">Tarkistaa&nbsp;onko&nbsp;(tiedostossa&nbsp;oleva)&nbsp;luku&nbsp;raja-arvojen,&nbsp;minimi&nbsp;ja&nbsp;maksimi&nbsp;<br>
+välillä.&nbsp;Parametrit&nbsp;luku,&nbsp;minimi&nbsp;ja&nbsp;maksimi.&nbsp;Palauttaa&nbsp;luvun,&nbsp;jos&nbsp;on&nbsp;luku&nbsp;<br>
+ja&nbsp;raja-arvojen&nbsp;välillä&nbsp;ja&nbsp;virheilmoituksen,&nbsp;jos&nbsp;ei.</span></dd></dl>
+ <dl><dt><a name="-kelpo_päivämäärä"><strong>kelpo_päivämäärä</strong></a>(prompt, pvm_muoto='%d.%m.%Y')</dt><dd><span class="code">#Funktio&nbsp;7.&nbsp;kelpo_päivämäärä</span></dd></dl>
+ <dl><dt><a name="-kesto_kustannuspaikoille"><strong>kesto_kustannuspaikoille</strong></a>(kp1_total: float, kp2_total: float, kp3_total: float, kp1_kpl_taskissa: float, kp2_kpl_taskissa: float, kp3_kpl_taskissa: float, kp1_aika1_kustannus: float, kp2_aika1_kustannus: float, kp3_aika1_kustannus: float, aika1_kesto: int) -&gt; Tuple[float, float, float, float, float, float]</dt><dd><span class="code">Funktio&nbsp;keston,&nbsp;tässä&nbsp;työpäivien&nbsp;määrän&nbsp;laskemiseksi&nbsp;kullekin<br>
+kustannuspaikalle&nbsp;=kp&nbsp;tässä&nbsp;resurssille:&nbsp;konetyölle&nbsp;(kp1),&nbsp;<br>
+miestyölle&nbsp;(kp2)&nbsp;ja&nbsp;kuljetukselle&nbsp;(kp3).&nbsp;<br>
+Parametrit:&nbsp;kustannuspaikkojen&nbsp;kokonaiskustannus&nbsp;/&nbsp;tehtävä,<br>
+kustannuspaikkojen&nbsp;tuntikustannus&nbsp;ja&nbsp;työpäivän&nbsp;pituus&nbsp;tunteina.&nbsp;<br>
+Laskee&nbsp;keston&nbsp;tuntikustannus&nbsp;*&nbsp;työpäivän&nbsp;kesto&nbsp;/&nbsp;resurssien&nbsp;määrä.<br>
+Palauttaa&nbsp;tuplet:&nbsp;kunkin&nbsp;kustannuspaikkan&nbsp;kesto&nbsp;ja&nbsp;kustannus.</span></dd></dl>
+ <dl><dt><a name="-luo_taskit_lista"><strong>luo_taskit_lista</strong></a>(task: str, pilkotun_taskin_nro, kp1_kesto: float, kp1_total: float, kp2_kesto: float, kp2_total: float, kp3_kesto: float, kp3_total: float, kokonaiskustannus: float, jaetun_taskin_kesto: int, aloitus_päivä: datetime.datetime) -&gt; list</dt><dd><span class="code">Funktion&nbsp;parapetrit&nbsp;task,&nbsp;pilkotun_taskin_nro,kp1_kesto,<br>
+kp1_total,&nbsp;kokonaiskustannus,&nbsp;jaetun_taskin_kesto,&nbsp;aloitus_päivä.<br>
+Jos&nbsp;kp1&nbsp;kesto&nbsp;&gt;&nbsp;lähtöarvojen&nbsp;jaetun&nbsp;tehtävän&nbsp;pituus&nbsp;jakaa&nbsp;tehtävän<br>
+tämän&nbsp;mukaisiin&nbsp;osiin.<br>
+Palauttaa&nbsp;listan,&nbsp;jossa&nbsp;tehtävät&nbsp;(taskit)&nbsp;jaettu&nbsp;annetun<br>
+(jaetun_taskin_kesto)&nbsp;päivien&nbsp;määrän&nbsp;mittaisiin&nbsp;osiin.<br>
+Osatehtävät&nbsp;on&nbsp;listassa&nbsp;sanakirja&nbsp;tietorakenteena.</span></dd></dl>
+ <dl><dt><a name="-työpäivät"><strong>työpäivät</strong></a>(aloitus: datetime.datetime, kesto: int, arkipyhät=[]) -&gt; datetime.datetime</dt><dd><span class="code">Poistaa&nbsp;viikonloput&nbsp;'laskuista'&nbsp;parametrit&nbsp;aloitus,&nbsp;kesto&nbsp;ja&nbsp;<br>
+arkipyhät&nbsp;lista.<br>
+Palauttaa&nbsp;valmis&nbsp;päivämäärän.&nbsp;Määritelty&nbsp;silmukka&nbsp;while&nbsp;&gt;&nbsp;0&nbsp;jossa<br>
+käydään&nbsp;aloituspäivästä&nbsp;alkaen&nbsp;läpi&nbsp;päivät&nbsp;yksi&nbsp;kerrallaan&nbsp;niin&nbsp;<br>
+kauan&nbsp;kunnes&nbsp;kesto&nbsp;=&nbsp;0.&nbsp;Jos&nbsp;päivän&nbsp;nro&nbsp;&lt;&nbsp;5&nbsp;(ma-pe/0-4)&nbsp;vähentää&nbsp;<br>
+kestoa&nbsp;yhdellä,&nbsp;jos&nbsp;5&nbsp;tai&nbsp;6&nbsp;eli&nbsp;la/su&nbsp;ei&nbsp;vähennä&nbsp;kestoa.&nbsp;Jos&nbsp;päivä<br>
+osuu&nbsp;arkipyhille&nbsp;ei&nbsp;myöskään&nbsp;vähennä.</span></dd></dl>
+</td></tr></table><p>
+<table class="section">
+<tr class="decor data-decor heading-text">
+<td class="section-title" colspan=3>&nbsp;<br><strong class="bigsection">Data</strong></td></tr>
+    
+<tr><td class="decor data-decor"><span class="code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td>&nbsp;</td>
+<td class="singlecolumn"><strong>Tuple</strong> = typing.Tuple<br>
+<strong>__warningregistry__</strong> = {'version': 548}<br>
+<strong>aloitus_2</strong> = '15.1.2024'<br>
+<strong>aloitus_2_sanakirja</strong> = {5: '15.1.2024'}<br>
+<strong>aloitus_2_value</strong> = 0<br>
+<strong>aloitus_pvm</strong> = datetime.datetime(2024, 1, 22, 0, 0)<br>
+<strong>aloitus_päivämäärä</strong> = datetime.datetime(2024, 1, 22, 0, 0)<br>
+<strong>arkipyhät</strong> = [datetime.date(2024, 1, 1), datetime.date(2024, 3, 29), datetime.date(2024, 4, 1), datetime.date(2024, 5, 1), datetime.date(2024, 5, 9), datetime.date(2024, 12, 6), datetime.date(2024, 12, 24), datetime.date(2024, 12, 25)]<br>
+<strong>auto_tehtävä</strong> = 1.0<br>
+<strong>ax</strong> = &lt;AxesSubplot: title={'center': 'Raimelan optio yleisaikataulu 29.01.2024'}&gt;<br>
+<strong>color_index</strong> = 4<br>
+<strong>csv_2</strong> = &lt;csv.DictReader object&gt;<br>
+<strong>csv_laskentatiedoston_nimi</strong> = 'raimela.csv'<br>
+<strong>csv_lähtöarvotiedoston_nimi</strong> = 'l.csv'<br>
+<strong>csv_reader</strong> = &lt;_csv.reader object&gt;<br>
+<strong>csv_sarakkeet</strong> = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]<br>
+<strong>csv_tulosteen_nimi</strong> = 'ohjelman_tulos.csv'<br>
+<strong>csv_tulosteen_nimi_1</strong> = 'ohjelman_tulos.csv'<br>
+<strong>csvfile</strong> = &lt;_io.TextIOWrapper name='ohjelman_tulos.csv' mode='r' encoding='utf-8'&gt;<br>
+<strong>data</strong> = [{'Aloitus': '22.01.2024', 'Aloitus_2': '0', 'EUR konetyö': '3400.0', 'EUR kuljetus': '1300.0', 'EUR miestyö': '1300.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '3', 'Resurssi': '1', 'Resurssi 2': "'19 Hyundai 210 LC-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '31.01.2024', 'Aloitus_2': '0', 'EUR konetyö': '3400.0', 'EUR kuljetus': '1300.0', 'EUR miestyö': '1300.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '3', 'Resurssi': '1', 'Resurssi 2': "'19 Hyundai 210 LC-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '09.02.2024', 'Aloitus_2': '0', 'EUR konetyö': '3400.0', 'EUR kuljetus': '1300.0', 'EUR miestyö': '1300.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '3', 'Resurssi': '1', 'Resurssi 2': "'19 Hyundai 210 LC-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '20.02.2024', 'Aloitus_2': '0', 'EUR konetyö': '700.0', 'EUR kuljetus': '300.0', 'EUR miestyö': '300.0', 'Kesto konetyö': '1.0', 'Päätehtävä nro': '2', 'Resurssi': '1', 'Resurssi 2': "'19 Hyundai 210 LC-9'", 'Riippuvuus': '3', ...}, {'Aloitus': '22.02.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '01.03.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '09.03.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '16.03.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '23.03.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '03.04.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '11.04.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '19.04.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '27.04.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '07.05.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '16.05.2024', 'Aloitus_2': '0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '8', 'Resurssi': '4', 'Resurssi 2': "'23 Hyundai 235 LCR-9'", 'Riippuvuus': '4', ...}, {'Aloitus': '25.05.2024', 'Aloitus_2': '0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '8', 'Resurssi': '4', 'Resurssi 2': "'23 Hyundai 235 LCR-9'", 'Riippuvuus': '4', ...}, {'Aloitus': '04.06.2024', 'Aloitus_2': '0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '8', 'Resurssi': '4', 'Resurssi 2': "'23 Hyundai 235 LCR-9'", 'Riippuvuus': '4', ...}, {'Aloitus': '13.06.2024', 'Aloitus_2': '0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '8', 'Resurssi': '4', 'Resurssi 2': "'23 Hyundai 235 LCR-9'", 'Riippuvuus': '4', ...}, {'Aloitus': '15.01.2024', 'Aloitus_2': '15.1.2024', 'EUR konetyö': '2700.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '5', 'Resurssi': '2', 'Resurssi 2': "'24 Hyundai HW170 ACR'", 'Riippuvuus': ' ', ...}, {'Aloitus': '23.01.2024', 'Aloitus_2': '0', 'EUR konetyö': '2700.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '5', 'Resurssi': '2', 'Resurssi 2': "'24 Hyundai HW170 ACR'", 'Riippuvuus': ' ', ...}, ...]<br>
+<strong>date_input</strong> = '22.1.2024'<br>
+<strong>dependency_value</strong> = 4<br>
+<strong>df</strong> =     Tehtävä nro                                 ...'  17.05.2024  28.05.2024
+
+[33 rows x 14 columns]<br>
+<strong>df_gantt</strong> =                                       task      ... 123          134             12               12<br>
+<strong>end_dates</strong> = DatetimeIndex(['2024-01-30', '2024-02-08', '2024...
+              dtype='datetime64[ns]', freq=None)<br>
+<strong>end_dates_str</strong> = Index(['30 Jan 2024', '08 Feb 2024', '19 Feb 202...24',
+       '28 May 2024'],
+      dtype='object')<br>
+<strong>end_list</strong> = ['30.01.2024', '08.02.2024', '19.02.2024', '21.02.2024', '29.02.2024', '08.03.2024', '15.03.2024', '22.03.2024', '02.04.2024', '10.04.2024', '18.04.2024', '26.04.2024', '06.05.2024', '15.05.2024', '24.05.2024', '03.06.2024', '12.06.2024', '21.06.2024', '22.01.2024', '30.01.2024', ...]<br>
+<strong>fieldnames</strong> = dict_keys(['Nro', '0', '1', '2', '3', '4', '5', ...surssi', 'Riippuvuus', 'Sort_Key', 'Resurssi 2'])<br>
+<strong>fig</strong> = &lt;Figure size 800x600 with 1 Axes&gt;<br>
+<strong>file</strong> = &lt;_io.TextIOWrapper name='resurssit.csv' mode='r' encoding='cp1252'&gt;<br>
+<strong>file_found</strong> = True<br>
+<strong>i</strong> = 4<br>
+<strong>index</strong> = 32<br>
+<strong>jaetun_tehtävän_pituus</strong> = 5<br>
+<strong>jaetut_tehtävät</strong> = [{0: '6.0-6.1 tonttihaara YlÃ¤tie osa 1', 1: 6.0, 2: 8.0, 3: 3.0, 4: 11000.0, 5: 3200.0, 6: 1400.0, 7: 1400.0, 8: '22.01.2024', 9: 1}, {0: '6.2-6.21 tonttihaara Raimelantie osa 1', 1: 1.0, 2: 1.0, 3: 1.0, 4: 2600.0, 5: 700.0, 6: 300.0, 7: 300.0, 8: '22.01.2024', 9: 1}, {0: '6.2-6.21 Raimelantie osa 1', 1: 6.0, 2: 6.0, 3: 3.0, 4: 11900.0, 5: 3400.0, 6: 1300.0, 7: 1300.0, 8: '22.01.2024', 9: 1}, {0: '6.2-6.21 Raimelantie osa 2', 1: 6.0, 2: 6.0, 3: 3.0, 4: 11900.0, 5: 3400.0, 6: 1300.0, 7: 1300.0, 8: '28.01.2024', 9: 2}, {0: '6.2-6.21 Raimelantie osa 3', 1: 6.0, 2: 6.0, 3: 3.0, 4: 11900.0, 5: 3400.0, 6: 1300.0, 7: 1300.0, 8: '03.02.2024', 9: 3}, {0: '3.0-3.1 Nikkarintie osa 1', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8700.0, 5: 2800.0, 6: 900.0, 7: 900.0, 8: '22.01.2024', 9: 1}, {0: '3.0-3.1 Nikkarintie osa 2', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8700.0, 5: 2800.0, 6: 900.0, 7: 900.0, 8: '27.01.2024', 9: 2}, {0: '3.0-3.1 Nikkarintie osa 3', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8700.0, 5: 2800.0, 6: 900.0, 7: 900.0, 8: '01.02.2024', 9: 3}, {0: '3.0-3.1 Nikkarintie osa 4', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8700.0, 5: 2800.0, 6: 900.0, 7: 900.0, 8: '07.02.2024', 9: 4}, {0: '3.0-3.1 Nikkarintie osa 5', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8700.0, 5: 2800.0, 6: 900.0, 7: 900.0, 8: '12.02.2024', 9: 5}, {0: '3.0-3.1 Nikkarintie osa 6', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8700.0, 5: 2800.0, 6: 900.0, 7: 900.0, 8: '17.02.2024', 9: 6}, {0: '3.0-3.1 Nikkarintie osa 7', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8700.0, 5: 2800.0, 6: 900.0, 7: 900.0, 8: '23.02.2024', 9: 7}, {0: '3.0-3.1 Nikkarintie osa 8', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8700.0, 5: 2800.0, 6: 900.0, 7: 900.0, 8: '28.02.2024', 9: 8}, {0: '3.0-3.1 Nikkarintie osa 9', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8700.0, 5: 2800.0, 6: 900.0, 7: 900.0, 8: '04.03.2024', 9: 9}, {0: '3.0-3.1 Nikkarintie osa 10', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8700.0, 5: 2800.0, 6: 900.0, 7: 900.0, 8: '10.03.2024', 9: 10}, {0: '6.0-6.1 YlÃ¤tie osa 1', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8900.0, 5: 2700.0, 6: 900.0, 7: 900.0, 8: '22.01.2024', 9: 1}, {0: '6.0-6.1 YlÃ¤tie osa 2', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8900.0, 5: 2700.0, 6: 900.0, 7: 900.0, 8: '27.01.2024', 9: 2}, {0: '6.0-6.1 YlÃ¤tie osa 3', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8900.0, 5: 2700.0, 6: 900.0, 7: 900.0, 8: '01.02.2024', 9: 3}, {0: '6.0-6.1 YlÃ¤tie osa 4', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8900.0, 5: 2700.0, 6: 900.0, 7: 900.0, 8: '06.02.2024', 9: 4}, {0: '6.0-6.1 YlÃ¤tie osa 5', 1: 5.0, 2: 6.0, 3: 2.0, 4: 8900.0, 5: 2700.0, 6: 900.0, 7: 900.0, 8: '11.02.2024', 9: 5}, ...]<br>
+<strong>kohteen_nimi</strong> = 'Raimelan optio'<br>
+<strong>kone_tehtävä</strong> = 1.0<br>
+<strong>konetyö</strong> = '122.00'<br>
+<strong>konetyö_eur</strong> = 122.0<br>
+<strong>konetyö_päivät</strong> = 7.390384615384615<br>
+<strong>konetyö_tuntihinta</strong> = 65.0<br>
+<strong>konetyö_yhteensä_eur</strong> = 3843.0<br>
+<strong>kuljetus</strong> = '0.00'<br>
+<strong>kuljetus_eur</strong> = 0.0<br>
+<strong>kuljetus_päivät</strong> = 0.0<br>
+<strong>kuljetus_tuntihinta</strong> = 65.0<br>
+<strong>kuljetus_yhteensä_eur</strong> = 0.0<br>
+<strong>lähtöarvot</strong> = &lt;_io.TextIOWrapper name='l.csv' mode='r' encoding='utf-8'&gt;<br>
+<strong>lähtöarvotiedoston_sarakkeet</strong> = ['kohteen_nimi', 'konetyö_tuntihinta', 'kone_tehtävä', 'miestyö_tuntihinta', 'mies_tehtävä', 'kuljetus_tuntihinta', 'auto_tehtävä', 'työpäivän_pituus_h', 'jaetun_tehtävän_pituus', 'Aloituspäivämäärä', 'csv_laskentatiedoston_nimi', 'csv_tulosteen_nimi']<br>
+<strong>matplotlib_colors</strong> = ['y', 'm', 'b', 'r', 'c']<br>
+<strong>mies_tehtävä</strong> = 1.0<br>
+<strong>miestyö</strong> = '66.00'<br>
+<strong>miestyö_eur</strong> = 66.0<br>
+<strong>miestyö_päivät</strong> = 15.916666666666666<br>
+<strong>miestyö_tuntihinta</strong> = 33.0<br>
+<strong>miestyö_yhteensä_eur</strong> = 0.0<br>
+<strong>määrä</strong> = 1.0<br>
+<strong>new_row</strong> = {'2': '16.0', '3': '0.0', '8': '22.01.2024', '9': '1', 'Aloitus': '17.05.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '3800.0', 'EUR kuljetus': '0.0', 'EUR miestyö': '0.0', ...}<br>
+<strong>nimen_max_pituus</strong> = 50<br>
+<strong>nykyhetki</strong> = 15<br>
+<strong>patches</strong> = [&lt;matplotlib.patches.Patch object&gt;, &lt;matplotlib.patches.Patch object&gt;, &lt;matplotlib.patches.Patch object&gt;, &lt;matplotlib.patches.Patch object&gt;, &lt;matplotlib.patches.Patch object&gt;]<br>
+<strong>poistettavat_sarakkeet</strong> = ['Aloitus_1', 'Valmis_1']<br>
+<strong>pvm_muoto</strong> = '%d.%m.%Y'<br>
+<strong>päivitetty_taulukko</strong> = [{'2': '6.0', '3': '3.0', '8': '22.01.2024', '9': '1', 'Aloitus': '22.01.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '3400.0', 'EUR kuljetus': '1300.0', 'EUR miestyö': '1300.0', ...}, {'2': '6.0', '3': '3.0', '8': '28.01.2024', '9': '2', 'Aloitus': '31.01.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '3400.0', 'EUR kuljetus': '1300.0', 'EUR miestyö': '1300.0', ...}, {'2': '6.0', '3': '3.0', '8': '03.02.2024', '9': '3', 'Aloitus': '09.02.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '3400.0', 'EUR kuljetus': '1300.0', 'EUR miestyö': '1300.0', ...}, {'2': '1.0', '3': '1.0', '8': '22.01.2024', '9': '1', 'Aloitus': '20.02.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '700.0', 'EUR kuljetus': '300.0', 'EUR miestyö': '300.0', ...}, {'2': '6.0', '3': '2.0', '8': '22.01.2024', '9': '1', 'Aloitus': '22.02.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '6.0', '3': '2.0', '8': '27.01.2024', '9': '2', 'Aloitus': '01.03.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '6.0', '3': '2.0', '8': '01.02.2024', '9': '3', 'Aloitus': '09.03.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '6.0', '3': '2.0', '8': '07.02.2024', '9': '4', 'Aloitus': '16.03.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '6.0', '3': '2.0', '8': '12.02.2024', '9': '5', 'Aloitus': '23.03.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '6.0', '3': '2.0', '8': '17.02.2024', '9': '6', 'Aloitus': '03.04.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '6.0', '3': '2.0', '8': '23.02.2024', '9': '7', 'Aloitus': '11.04.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '6.0', '3': '2.0', '8': '28.02.2024', '9': '8', 'Aloitus': '19.04.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '6.0', '3': '2.0', '8': '04.03.2024', '9': '9', 'Aloitus': '27.04.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '6.0', '3': '2.0', '8': '10.03.2024', '9': '10', 'Aloitus': '07.05.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '3.0', '3': '2.0', '8': '22.01.2024', '9': '1', 'Aloitus': '16.05.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', ...}, {'2': '3.0', '3': '2.0', '8': '28.01.2024', '9': '2', 'Aloitus': '25.05.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', ...}, {'2': '3.0', '3': '2.0', '8': '03.02.2024', '9': '3', 'Aloitus': '04.06.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', ...}, {'2': '3.0', '3': '2.0', '8': '09.02.2024', '9': '4', 'Aloitus': '13.06.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', ...}, {'2': '6.0', '3': '2.0', '8': '22.01.2024', '9': '1', 'Aloitus': '15.01.2024', 'Aloitus_2': '15.1.2024', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2700.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, {'2': '6.0', '3': '2.0', '8': '27.01.2024', '9': '2', 'Aloitus': '23.01.2024', 'Aloitus_2': '0', 'Autoja / tehtävä': '1.0', 'EUR konetyö': '2700.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', ...}, ...]<br>
+<strong>päivämäärät</strong> = {0, '15.1.2024'}<br>
+<strong>päätehtävä_numero</strong> = 11<br>
+<strong>reader</strong> = &lt;csv.DictReader object&gt;<br>
+<strong>resursseja_yhteensä</strong> = 5<br>
+<strong>resurssi</strong> = None<br>
+<strong>resurssi_dict</strong> = {1: '19 Hyundai 210 LC-9', 2: '24 Hyundai HW170 ACR', 3: '21 Hyundai R180W-9', 4: '23 Hyundai 235 LCR-9', 5: '10 Hyundai R60'}<br>
+<strong>resurssi_file</strong> = &lt;_io.TextIOWrapper name='resurssit.csv' mode='r' encoding='utf-8'&gt;<br>
+<strong>resurssi_reader</strong> = &lt;_csv.reader object&gt;<br>
+<strong>resurssi_sanakirja</strong> = {4: 3, 5: 2, 8: 4}<br>
+<strong>resurssi_väritys</strong> = {'10 Hyundai R60': 'c', '19 Hyundai 210 LC-9': 'y', '21 Hyundai R180W-9': 'b', '23 Hyundai 235 LCR-9': 'r', '24 Hyundai HW170 ACR': 'm'}<br>
+<strong>resurssit</strong> = ["'19 Hyundai 210 LC-9'", "'24 Hyundai HW170 ACR'", "'21 Hyundai R180W-9'", "'23 Hyundai 235 LCR-9'", "'10 Hyundai R60'"]<br>
+<strong>resurssit_csv_file</strong> = 'resurssit.csv'<br>
+<strong>riippuvuudet_sanakirja</strong> = {1: 5, 2: 3, 8: 4}<br>
+<strong>rivi</strong> = ['728', '', 'PylvÃ¤Ã¤n siirto', '6.2-6.21 katu Raimelantie', 'pylvas_siirto', '1', 'kpl', '65', '0.00', '1000.00', '0.00', '122.00', '122', '66.00', '1188.00', '1310.54', '1310.54']<br>
+<strong>rivit</strong> = ['504,3111.10,TrenchRun : 6.0-6.1 tonttihaara (14 ...,m,54,5.00,0.00,0.00,,0,8.25,13.25,14.1775,1134.2', '505,3111.10,TrenchRun : 6.2-6.21 tonttihaara (2 ...,m,54,5.00,0.00,0.00,,0,8.25,13.25,14.1775,184.31', '509,3111.20,TrenchRun : 6.2-6.21 (2 items) Quant...m,54,8.50,0.00,0.00,,0,8.25,16.75,17.9225,1666.79', '511,3111.30,TrenchRun : 3.0-3.1 (8 items) Quanti...,54,12.00,0.00,0.00,,0,8.25,20.25,21.6675,5871.89', '512,3111.30,TrenchRun : 6.0-6.1 (7 items) Quanti...,54,12.00,0.00,0.00,,0,8.25,20.25,21.6675,5221.87', '516,3131.20,TrenchRun : 3.0-3.1 tonttihaara (9 i...57,m,54,1.50,0.00,0.00,,0,4.13,5.63,6.0241,343.37', '517,3131.20,TrenchRun : 6.0-6.1 tonttihaara (14 ...86,m,54,1.50,0.00,0.00,,0,4.13,5.63,6.0241,518.07', '518,3131.20,TrenchRun : 6.2-6.21 tonttihaara (2 ...,13,m,54,1.50,0.00,0.00,,0,4.13,5.63,6.0241,78.31', '521,3131.50,TrenchRun : 3.0-3.1 (8 items) Quanti...0.00,0.00,04.07,1115.18,5.50,18.07,20.6449,5656.7', '522,3131.50,TrenchRun : 6.0-6.1 (7 items) Quanti...0.00,0.00,04.07,984.94,5.50,18.07,20.6449,4996.07', '523,3131.50,TrenchRun : 6.2-6.21 (2 items) Quant...0.00,0.00,04.07,378.51,5.50,18.07,20.6449,1919.98', '530,3113.1,jvtk,6.0-6.1 YlÃ¤tie,jvtk400,4,kpl,54...0,0.00,0.00,61.00,244,66.00,352.00,396.33,1585.32', '531,3113.1,jvtk,3.0-3.1 Nikkarintie,jvtk400,5,kp...0,0.00,0.00,61.00,305,66.00,352.00,396.33,1981.65', '532,3113.1,jvtk,6.2-6.21 Raimelantie,jvtk400,2,k...00,0.00,0.00,61.00,122,66.00,352.00,396.33,792.66', '535,3113.1,jvtk,6.0-6.1 YlÃ¤tie,jvtk560,4,kpl,54,300.00,0.00,0.00,61.00,244,,361.00,405.96,1623.84', '536,3113.1,jvtk,3.0-3.1 Nikkarintie,jvtk560,3,kp...300.00,0.00,0.00,61.00,183,,361.00,405.96,1217.88', '539,3113.1,jvtk,3.0-3.1 Nikkarintie,jvtk800,2,kp...,0.00,0.00,61.00,122,82.50,523.50,579.835,1159.67', '544,1711.10,Kanaalikaivu,3.0-3.1 Nikkarintie,kal...0,25.00,6.00,8.71,26.13,2.20,41.91,47.6537,142.96', '549,1711.10,Kanaalikaivu,6.0-6.1 YlÃ¤tie,kallio,...25.00,6.00,8.71,1393.6,2.20,41.91,47.6537,7624.59', '551,1711.10,Kanaalikaivu,6.0-6.1 tonttihaara YlÃ...0,25.00,6.00,8.71,26.13,2.20,41.91,47.6537,142.96', ...]<br>
+<strong>row</strong> = task                     7.0-8.0 osa 1
+team     ...ys                     12
+Name: 32, dtype: object<br>
+<strong>row_data</strong> = {'0': '7.0-8.0 osa 1', '1': 7.0, '2': 16.0, '3': 0.0, '4': 16100.0, '5': 3800.0, '6': 0.0, '7': 0.0, '8': '22.01.2024', '9': 1, ...}<br>
+<strong>sarake</strong> = 'Valmis_1'<br>
+<strong>sarake_mapping</strong> = {'0': 'Tehtävä', '1': 'Kesto konetyö', '4': 'Yhteensä EUR', '5': 'EUR konetyö', '6': 'EUR miestyö', '7': 'EUR kuljetus', 'Aloitus_1': 'Aloitus', 'Aloitus_2': 'Aloitus_2', 'Päätehtävä nro': 'Päätehtävä nro', 'Resurssi': 'Resurssi', ...}<br>
+<strong>start_dates</strong> = DatetimeIndex(['2024-01-22', '2024-01-31', '2024...
+              dtype='datetime64[ns]', freq=None)<br>
+<strong>start_dates_str</strong> = Index(['22 Jan 2024', '31 Jan 2024', '09 Feb 202...24',
+       '17 May 2024'],
+      dtype='object')<br>
+<strong>start_list</strong> = ['22.01.2024', '31.01.2024', '09.02.2024', '20.02.2024', '22.02.2024', '01.03.2024', '09.03.2024', '16.03.2024', '23.03.2024', '03.04.2024', '11.04.2024', '19.04.2024', '27.04.2024', '07.05.2024', '16.05.2024', '25.05.2024', '04.06.2024', '13.06.2024', '15.01.2024', '23.01.2024', ...]<br>
+<strong>summa</strong> = {'Konetyö': 3843.0, 'Kuljetus': 0.0, 'Miestyö': 4202.0, 'Yhteensä': 16054.5}<br>
+<strong>task_number</strong> = 11<br>
+<strong>task_number_2</strong> = 11<br>
+<strong>task_number_3</strong> = 0<br>
+<strong>taulukko_2</strong> = +----------------------------------------+------...----------------------+------------+------------+<br>
+<strong>team</strong> = '10 Hyundai R60'<br>
+<strong>team_colors</strong> = {'10 Hyundai R60': 'c', '19 Hyundai 210 LC-9': 'y', '21 Hyundai R180W-9': 'b', '23 Hyundai 235 LCR-9': 'r', '24 Hyundai HW170 ACR': 'm'}<br>
+<strong>team_list</strong> = ['19 Hyundai 210 LC-9', '19 Hyundai 210 LC-9', '19 Hyundai 210 LC-9', '19 Hyundai 210 LC-9', '21 Hyundai R180W-9', '21 Hyundai R180W-9', '21 Hyundai R180W-9', '21 Hyundai R180W-9', '21 Hyundai R180W-9', '21 Hyundai R180W-9', '21 Hyundai R180W-9', '21 Hyundai R180W-9', '21 Hyundai R180W-9', '21 Hyundai R180W-9', '23 Hyundai 235 LCR-9', '23 Hyundai 235 LCR-9', '23 Hyundai 235 LCR-9', '23 Hyundai 235 LCR-9', '24 Hyundai HW170 ACR', '24 Hyundai HW170 ACR', ...]<br>
+<strong>teams_df</strong> = Empty DataFrame
+Columns: ['19 Hyundai 210 LC-9',...3 Hyundai 235 LCR-9', '10 Hyundai R60']
+Index: []<br>
+<strong>tehtavat_list</strong> = ['6.2-6.21 Raimelantie osa 1', '6.2-6.21 Raimelantie osa 2', '6.2-6.21 Raimelantie osa 3', '6.2-6.21 tonttihaara Raimelantie osa 1', '3.0-3.1 Nikkarintie osa 1', '3.0-3.1 Nikkarintie osa 2', '3.0-3.1 Nikkarintie osa 3', '3.0-3.1 Nikkarintie osa 4', '3.0-3.1 Nikkarintie osa 5', '3.0-3.1 Nikkarintie osa 6', '3.0-3.1 Nikkarintie osa 7', '3.0-3.1 Nikkarintie osa 8', '3.0-3.1 Nikkarintie osa 9', '3.0-3.1 Nikkarintie osa 10', '6.0-6.1 katu YlÃ¤tie osa 1', '6.0-6.1 katu YlÃ¤tie osa 2', '6.0-6.1 katu YlÃ¤tie osa 3', '6.0-6.1 katu YlÃ¤tie osa 4', '6.0-6.1 YlÃ¤tie osa 1', '6.0-6.1 YlÃ¤tie osa 2', ...]<br>
+<strong>tehtäviä_yhteensä</strong> = 11<br>
+<strong>tehtävä</strong> = {0: '7.0-8.0 osa 1', 1: 7.0, 2: 16.0, 3: 0.0, 4: 16100.0, 5: 3800.0, 6: 0.0, 7: 0.0, 8: '22.01.2024', 9: 1}<br>
+<strong>tehtävä_nro</strong> = 1<br>
+<strong>tehtävät</strong> = {'3.0-3.1 Nikkarintie': {'Konetyö': 27736.02, 'Kuljetus': 9095.0, 'Miestyö': 14877.070000000002, 'Yhteensä': 87446.93}, '3.0-3.1 katu Nikkarintie': {'Konetyö': 4277.8, 'Kuljetus': 1620.0, 'Miestyö': 1210.0, 'Yhteensä': 12094.349999999999}, '3.0-3.1 tonttihaara': {'Konetyö': 191.62, 'Kuljetus': 88.0, 'Miestyö': 72.6, 'Yhteensä': 750.13}, '3.0-3.1 tonttihaara Nikkarintie': {'Konetyö': 3553.68, 'Kuljetus': 1490.0, 'Miestyö': 1345.3100000000002, 'Yhteensä': 10273.99}, '6.0-6.1 YlÃ¤tie': {'Konetyö': 23945.44, 'Kuljetus': 8170.0, 'Miestyö': 13257.39, 'Yhteensä': 79957.13000000002}, '6.0-6.1 katu YlÃ¤tie': {'Konetyö': 12944.7, 'Kuljetus': 4902.5, 'Miestyö': 3661.9, 'Yhteensä': 36602.46}, '6.0-6.1 tonttihaara YlÃ¤tie': {'Konetyö': 3248.8300000000004, 'Kuljetus': 1376.0, 'Miestyö': 2041.48, 'Yhteensä': 11008.74}, '6.2-6.21 Raimelantie': {'Konetyö': 10103.66, 'Kuljetus': 4011.0, 'Miestyö': 4773.29, 'Yhteensä': 35830.25}, '6.2-6.21 katu Raimelantie': {'Konetyö': 5097.120000000001, 'Kuljetus': 1884.25, 'Miestyö': 1473.45, 'Yhteensä': 15378.75}, '6.2-6.21 tonttihaara Raimelantie': {'Konetyö': 679.3800000000001, 'Kuljetus': 318.0, 'Miestyö': 375.43999999999994, 'Yhteensä': 2588.95}, ...}<br>
+<strong>tehtävät_file</strong> = &lt;_io.TextIOWrapper name='raimela.csv' mode='r' encoding='cp1252'&gt;<br>
+<strong>tiedosto_vai_manuaali</strong> = 't'<br>
+<strong>tulostettavat_2</strong> = ['Tehtävä', 'Kesto konetyö', 'Päätehtävä nro', 'Aloitus_2', 'Riippuvuus', 'Resurssi', 'Resurssi 2', 'Aloitus', 'Valmis']<br>
+<strong>tulostettavat_sarakkeet</strong> = ['Tehtävä nro', 'Tehtävä', 'Kesto konetyö', 'Yhteensä EUR', 'EUR konetyö', 'EUR miestyö', 'EUR kuljetus', 'Päätehtävä nro', 'Aloitus_2', 'Riippuvuus', 'Resurssi', 'Resurssi 2', 'Aloitus', 'Valmis']<br>
+<strong>työpäivän_pituus_h</strong> = 8<br>
+<strong>tänään</strong> = datetime.date(2024, 1, 29)<br>
+<strong>tänään_muodossa</strong> = '29.01.2024'<br>
+<strong>tänään_timestamp</strong> = Timestamp('2024-01-29 00:00:00')<br>
+<strong>valitut_sarakkeet</strong> = [{'Aloitus': '22.01.2024', 'Aloitus_2': '0', 'EUR konetyö': '3400.0', 'EUR kuljetus': '1300.0', 'EUR miestyö': '1300.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '3', 'Resurssi': '1', 'Resurssi 2': "'19 Hyundai 210 LC-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '31.01.2024', 'Aloitus_2': '0', 'EUR konetyö': '3400.0', 'EUR kuljetus': '1300.0', 'EUR miestyö': '1300.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '3', 'Resurssi': '1', 'Resurssi 2': "'19 Hyundai 210 LC-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '09.02.2024', 'Aloitus_2': '0', 'EUR konetyö': '3400.0', 'EUR kuljetus': '1300.0', 'EUR miestyö': '1300.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '3', 'Resurssi': '1', 'Resurssi 2': "'19 Hyundai 210 LC-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '20.02.2024', 'Aloitus_2': '0', 'EUR konetyö': '700.0', 'EUR kuljetus': '300.0', 'EUR miestyö': '300.0', 'Kesto konetyö': '1.0', 'Päätehtävä nro': '2', 'Resurssi': '1', 'Resurssi 2': "'19 Hyundai 210 LC-9'", 'Riippuvuus': '3', ...}, {'Aloitus': '22.02.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '01.03.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '09.03.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '16.03.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '23.03.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '03.04.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '11.04.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '19.04.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '27.04.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '07.05.2024', 'Aloitus_2': '0', 'EUR konetyö': '2800.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '4', 'Resurssi': '3', 'Resurssi 2': "'21 Hyundai R180W-9'", 'Riippuvuus': ' ', ...}, {'Aloitus': '16.05.2024', 'Aloitus_2': '0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '8', 'Resurssi': '4', 'Resurssi 2': "'23 Hyundai 235 LCR-9'", 'Riippuvuus': '4', ...}, {'Aloitus': '25.05.2024', 'Aloitus_2': '0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '8', 'Resurssi': '4', 'Resurssi 2': "'23 Hyundai 235 LCR-9'", 'Riippuvuus': '4', ...}, {'Aloitus': '04.06.2024', 'Aloitus_2': '0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '8', 'Resurssi': '4', 'Resurssi 2': "'23 Hyundai 235 LCR-9'", 'Riippuvuus': '4', ...}, {'Aloitus': '13.06.2024', 'Aloitus_2': '0', 'EUR konetyö': '3200.0', 'EUR kuljetus': '1200.0', 'EUR miestyö': '1200.0', 'Kesto konetyö': '6.0', 'Päätehtävä nro': '8', 'Resurssi': '4', 'Resurssi 2': "'23 Hyundai 235 LCR-9'", 'Riippuvuus': '4', ...}, {'Aloitus': '15.01.2024', 'Aloitus_2': '15.1.2024', 'EUR konetyö': '2700.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '5', 'Resurssi': '2', 'Resurssi 2': "'24 Hyundai HW170 ACR'", 'Riippuvuus': ' ', ...}, {'Aloitus': '23.01.2024', 'Aloitus_2': '0', 'EUR konetyö': '2700.0', 'EUR kuljetus': '900.0', 'EUR miestyö': '900.0', 'Kesto konetyö': '5.0', 'Päätehtävä nro': '5', 'Resurssi': '2', 'Resurssi 2': "'24 Hyundai HW170 ACR'", 'Riippuvuus': ' ', ...}, ...]<br>
+<strong>writer</strong> = &lt;csv.DictWriter object&gt;<br>
+<strong>xticklabels</strong> = Index(['19.01.', '20.01.', '21.01.', '22.01.', '...6.', '21.06.'],
+      dtype='object', length=155)<br>
+<strong>xticks</strong> = array([  5,  12,  19,  26,  33,  40,  47,  54,  ... 117, 124, 131, 138, 145, 152, 159], dtype=int64)<br>
+<strong>yhteensä_eur</strong> = 1310.54<br>
+<strong>yhteensä_total_eur</strong> = 16054.5</td></tr></table>
+</body></html>

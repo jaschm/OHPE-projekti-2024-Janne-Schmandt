@@ -1,0 +1,127 @@
+Id,Littera,Rakennusosa,Paikka,Materiaali,Määrä,Yksikkö,KL,€/yks. mat.,€/yks. alih.,€/yks. kulj.,€/yks. konetyö,€yhteensa konetyö,€/yks. miestyö,€/yks,€/yks sis.kate,€yht
+837,1131,Vesijohdon ja toimilaitteiden purku putkilinjaltavesijohdot sis. kuljetuksen ja jätteenkäsittelymaksun,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,vj_purku,295,mtr,64,0.00,0.00,2.00,1.50,442.5,01.07,4.57,5.5313,1631.73
+865,1131,Vesijohdon ja toimilaitteiden purku putkilinjaltavesijohdot sis. kuljetuksen ja jätteenkäsittelymaksun,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,vj_purku,225,mtr,64,0.00,0.00,2.00,1.50,337.5,01.07,4.57,5.5313,1244.54
+899,1131,Vesijohdon ja toimilaitteiden purku putkilinjaltavesijohdot sis. kuljetuksen ja jätteenkäsittelymaksun,Juolukkatie D 6753 007,vj_purku,145,mtr,64,0.00,0.00,2.00,1.50,217.5,01.07,4.57,5.5313,802.04
+930,1131,Vesijohdon ja toimilaitteiden purku putkilinjaltavesijohdot sis. kuljetuksen ja jätteenkäsittelymaksun,Luumutie D 3267 002,vj_purku,155,mtr,64,0.00,0.00,2.00,1.50,232.5,01.07,4.57,5.5313,857.35
+838,1131,Jäteviemärin ja kaivojen purku putkilinjalta sis. kuljetuksen ja jätteenkäsittelymaksun,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,jv_purku,283,mtr,64,0.00,2.00,2.00,4.00,1132,3.20,11.20,13.668,3868.04
+866,1131,Jäteviemärin ja kaivojen purku putkilinjalta sis.kuljetuksen ja jätteenkäsittelymaksun,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,jv_purku,180,mtr,64,0.00,2.00,2.00,4.00,720,3.20,11.20,13.668,2460.24
+900,1131,Jäteviemärin ja kaivojen purku putkilinjalta sis.kuljetuksen ja jätteenkäsittelymaksun,Juolukkatie D 6753 007,jv_purku,95,mtr,64,0.00,2.00,2.00,4.00,380,3.20,11.20,13.668,1298.46
+932,1131,Jäteviemärin ja kaivojen purku putkilinjalta sis. kuljetuksen ja jätteenkäsittelymaksun,Luumutie D 3267 002,jv_purku,167,mtr,64,0.00,2.00,2.00,4.00,668,3.20,11.20,13.668,2282.56
+839,1131,Palopostin / palopostiaseman poisto,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,palopostin_poisto,2,kpl,65,0.00,0.00,0.00,120.00,240,64.00,184.00,244.31,488.62
+901,1131,Palopostin / palopostiaseman poisto,Juolukkatie D 6753 007,palopostin_poisto,1,kpl,65,0.00,0.00,0.00,120.00,120,64.00,184.00,244.31,244.31
+931,1131,Palopostin / palovesiaseman poisto,Luumutie D 3267 002,palopostin_poisto,1,kpl,65,0.00,0.00,0.00,120.00,120,64.00,184.00,244.31,244.31
+840,1132,Kaapeleiden suojaus,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kaapeleiden_suojaus,18,mtr,65,0.00,0.00,0.00,,0,6.40,6.40,6.976,125.57
+841,13311,Murskearina sis. suodatinkangas N3,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kam0_32,124,m3rtr,53,12.37,0.00,8.00,10.00,1240,4.00,34.37,41.1133,5098.05
+849,2131,Sitomaton kantava kerros KaM 0-32,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kam0_32,290,m3rtr,53,12.37,0.00,8.00,10.00,2900,4.00,34.37,41.1133,11922.86
+870,13311,Murskearina sis. suodatinkangas N3,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,kam0_32,91,m3rtr,53,12.37,0.00,8.00,10.00,910,4.00,34.37,41.1133,3741.31
+878,2131,Sitomaton kantava kerros KaM 0-32,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,kam0_32,180,m3rtr,53,12.37,0.00,8.00,10.00,1800,4.00,34.37,41.1133,7400.39
+904,13311,Murskearina sis. suodatinkangas N3,Juolukkatie D 6753 007,kam0_32,54,m3rtr,53,12.37,0.00,8.00,10.00,540,4.00,34.37,41.1133,2220.12
+913,2131,Sitomaton kantava kerros KaM 0-32,Juolukkatie D 6753 007,kam0_32,85,m3rtr,53,12.37,0.00,8.00,10.00,850,4.00,34.37,41.1133,3494.63
+933,13311,Murskearina sis. suodatinkangas N3,Luumutie D 3267 002,kam0_32,50,m3rtr,53,12.37,0.00,8.00,10.00,500,4.00,34.37,41.1133,2055.66
+941,2131,Sitomaton kantava kerros KaM 0-32,Luumutie D 3267 002,kam0_32,108,m3rtr,53,12.37,0.00,8.00,10.00,1080,4.00,34.37,41.1133,4440.24
+842,1151,Asfalttipäällysteen poisto kaatopaikalle,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,asf_poisto,25,m2tr,64,0.00,0.00,1.00,0.80,20,,1.80,2.252,56.3
+868,1151,Asfalttipäällysteen poisto kaatopaikalle,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,asf_poisto,10,m2tr,64,0.00,0.00,1.00,0.80,8,,1.80,2.252,22.52
+903,1151,Asfalttipäällysteen poisto kaatopaikalle,Juolukkatie D 6753 007,asf_poisto,727,m2tr,64,0.00,0.00,1.00,0.80,581.6,,1.80,2.252,1637.2
+843,1621,Putkikaivannon kaivu sis. kaatopaikka maksun,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,savi,2380.5,m3ktr,65,0.00,3.78,8.00,6.00,14283,1.68,19.46,23.4014,55707.03
+871,1621,Putkikaivannon kaivu sis. kaatopaikka maksun,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,savi,1525.5,m3ktr,65,0.00,3.78,8.00,6.00,9153,1.68,19.46,23.4014,35698.84
+905,1621,Putkikaivannon kaivu sis. kaatopaikka maksun,Juolukkatie D 6753 007,savi,728.5,m3ktr,65,0.00,3.78,8.00,6.00,4371,1.68,19.46,23.4014,17047.92
+935,1621,Putkikaivannon kaivu sis. kaatopaikka maksun,Luumutie D 3267 002,savi,1080.5,m3ktr,65,0.00,3.78,8.00,6.00,6483,1.68,19.46,23.4014,25285.21
+844,16212,Kiinteistökatselmus,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kiinteistokatselmus,18,kpl,58,300.00,0.00,0.00,,0,,300.00,327,5886
+872,16212,Kiinteistökatselmus,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,kiinteistokatselmus,16,kpl,58,300.00,0.00,0.00,,0,,300.00,327,5232
+906,16212,Kiinteistökatselmus,Juolukkatie D 6753 007,kiinteistokatselmus,7,kpl,58,300.00,0.00,0.00,,0,,300.00,327,2289
+936,16212,Kiinteistökatselmus,Luumutie D 3267 002,kiinteistokatselmus,10,kpl,58,300.00,0.00,0.00,,0,,300.00,327,3270
+845,1831,Tasauskerros murskeesta (asennusalusta),Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kam0_16,80,m3rtr,53,14.36,0.00,8.00,10.00,800,4.00,36.36,43.2824,3462.59
+846,1832,Alkutäyttö murskeesta,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kam0_16,857,m3rtr,53,14.36,0.00,8.00,10.00,8570,4.00,36.36,43.2824,37093.02
+874,1831,Tasauskerros murskeesta (asennusalusta),Vaapukkatie Lehmustie-Mustikkatie D 6630 007,kam0_16,65,m3rtr,53,14.36,0.00,8.00,10.00,650,4.00,36.36,43.2824,2813.36
+875,1832,Alkutäyttö murskeesta,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,kam0_16,535,m3rtr,53,14.36,0.00,8.00,10.00,5350,4.00,36.36,43.2824,23156.08
+909,1831,Tasauskerros murskeesta (asennusalusta),Juolukkatie D 6753 007,kam0_16,48,m3rtr,53,14.36,0.00,8.00,10.00,480,4.00,36.36,43.2824,2077.56
+910,1832,Alkutäyttö murskeesta,Juolukkatie D 6753 007,kam0_16,251,m3rtr,53,14.36,0.00,8.00,10.00,2510,4.00,36.36,43.2824,10863.88
+937,1831,Tasauskerros murskeesta (asennusalusta),Luumutie D 3267 002,kam0_16,47,m3rtr,53,14.36,0.00,8.00,10.00,470,4.00,36.36,43.2824,2034.27
+938,1832,Alkutäyttö murskeesta,Luumutie D 3267 002,kam0_16,438,m3rtr,53,14.36,0.00,8.00,10.00,4380,4.00,36.36,43.2824,18957.69
+847,1833,Lopputäyttö murskeesta,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kam0_90,992.5,m3rtr,53,9.45,0.00,7.00,8.57,8505.72,4.00,29.02,34.7518,34491.16
+876,1833,Lopputäyttö murskeesta,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,kam0_90,629.5,m3rtr,53,9.45,0.00,7.00,8.57,5394.82,4.00,29.02,34.7518,21876.26
+911,1833,Lopputäyttö murskeesta,Juolukkatie D 6753 007,kam0_90,388.5,m3rtr,53,9.45,0.00,7.00,8.57,3329.44,4.00,29.02,34.7518,13501.07
+939,1833,Lopputäyttö murskeesta,Luumutie D 3267 002,kam0_90,413.5,m3rtr,53,9.45,0.00,7.00,8.57,3543.7,4.00,29.02,34.7518,14369.87
+848,1837,Johtokaivantojen virtaussulut,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,virtaussulku,6,kpl,65,0.00,0.00,0.00,60.00,360,32.00,92.00,122.16,732.96
+877,1837,Johtokaivantojen virtaussulut,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,virtaussulku,4,kpl,65,0.00,0.00,0.00,60.00,240,32.00,92.00,122.16,488.64
+912,1837,Johtokaivantojen virtaussulut,Juolukkatie D 6753 007,virtaussulku,3,kpl,65,0.00,0.00,0.00,60.00,180,32.00,92.00,122.16,366.48
+940,1837,Johtokaivantojen virtaussulut,Luumutie D 3267 002,virtaussulku,4,kpl,65,0.00,0.00,0.00,60.00,240,32.00,92.00,122.16,488.64
+850,21411,Asfalttipäällyste KL 3,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,ab_kl3,25,m2tr,61,0.00,46.25,0.00,,0,,46.25,50.4125,1260.31
+851,21451,Sorapäällyste KaM 0/12 5 cm,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kam0_12_m2,1975,m2tr,61,0.00,0.20,0.00,1.20,2370,,1.40,1.966,3882.85
+879,21451,Sorapäällyste KaM 0/12 5 cm,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,kam0_12_m2,1230,m2tr,61,0.00,0.20,0.00,1.20,1476,,1.40,1.966,2418.18
+942,21451,Sorapäällyste KaM 0/12 5 cm,Luumutie D 3267 002,kam0_12_m2,738,m2tr,61,0.00,0.20,0.00,1.20,885.6,,1.40,1.966,1450.91
+852,3111121,Jv-viemäri (vietto) M 200 (59) SN 8,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,jv200m,124,mtr,54,10.70,0.00,0.00,2.00,248,6.40,19.10,21.549,2672.08
+882,3111121,Jv-viemäri (vietto) M 200 (59) SN 8,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,jv200m,45,mtr,54,10.70,0.00,0.00,2.00,90,6.40,19.10,21.549,969.7
+915,3111121,Jv-viemäri (vietto) M 200 (59) SN 8,Juolukkatie D 6753 007,jv200m,74,mtr,54,10.70,0.00,0.00,2.00,148,6.40,19.10,21.549,1594.63
+853,3111122,Jv-viemäri (vietto) M 250 (73) SN 8,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,jv250m,161,mtr,54,16.50,0.00,0.00,2.00,322,6.40,24.90,27.871,4487.23
+883,3111122,Jv-viemäri (vietto) M 250 (73) SN 8,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,jv250m,133,mtr,54,16.50,0.00,0.00,2.00,266,6.40,24.90,27.871,3706.84
+916,3111122,Jv-viemäri (vietto) M 250 (73) SN 8,Juolukkatie D 6753 007,jv250m,37,mtr,54,16.50,0.00,0.00,2.00,74,6.40,24.90,27.871,1031.23
+943,3111122,Jv-viemäri (vietto) M 250 (73) SN 8,Luumutie D 3267 002,jv250m,155,mtr,54,16.50,0.00,0.00,2.00,310,6.40,24.90,27.871,4320
+854,31132,Betonitarkastuskaivo 800 mm EK-kaivo,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,jvtk800ek,7,kpl,54,641.58,0.00,0.00,60.00,420,64.00,765.58,856.3622,5994.54
+884,31132,Betonitarkastuskaivo 800 mm EK-kaivo,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,jvtk800ek,5,kpl,54,641.58,0.00,0.00,60.00,300,64.00,765.58,856.3622,4281.81
+917,31132,Betonitarkastuskaivo 800 mm EK-kaivo,Juolukkatie D 6753 007,jvtk800ek,3,kpl,54,641.58,0.00,0.00,60.00,180,64.00,765.58,856.3622,2569.09
+944,31132,Betonitarkastuskaivo 800 mm EK-kaivo,Luumutie D 3267 002,jvtk800ek,4,kpl,54,641.58,0.00,0.00,60.00,240,64.00,765.58,856.3622,3425.45
+855,3114,Jäteveden tonttiliittymä,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,jv_tonttiliit,18,kpl,54,50.00,0.00,0.00,120.00,2160,160.00,330.00,403.45,7262.1
+885,3114,Jäteveden tonttiliittymä,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,jv_tonttiliit,13,kpl,54,50.00,0.00,0.00,120.00,1560,160.00,330.00,403.45,5244.85
+918,3114,Jäteveden tonttiliittymä,Juolukkatie D 6753 007,jv_tonttiliit,6,kpl,54,50.00,0.00,0.00,120.00,720,160.00,330.00,403.45,2420.7
+945,3114,Jäteveden tonttiliittymä,Luumutie D 3267 002,jv_tonttiliit,9,kpl,54,50.00,0.00,0.00,120.00,1080,160.00,330.00,403.45,3631.05
+856,3121121,Hv-viemäri (vietto) M 200 SN 8,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,hv200m,94,mtr,54,10.70,0.00,0.00,2.00,188,8.00,20.70,23.293,2189.54
+886,3121121,Hv-viemäri (vietto) M 200 SN 8,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,hv200m,60,mtr,54,10.70,0.00,0.00,2.00,120,8.00,20.70,23.293,1397.58
+919,3121121,Hv-viemäri (vietto) M 200 SN 8,Juolukkatie D 6753 007,hv200m,94,mtr,54,10.70,0.00,0.00,2.00,188,8.00,20.70,23.293,2189.54
+946,3121121,Hv-viemäri (vietto) M 200 SN 8,Luumutie D 3267 002,hv200m,8,mtr,54,10.70,0.00,0.00,2.00,16,8.00,20.70,23.293,186.34
+857,3121121,Hv-viemäri (vietto) M 250 SN 8,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,hv250m,213,mtr,54,16.50,0.00,0.00,2.00,426,8.00,26.50,29.615,6308
+887,3121121,Hv-viemäri (vietto) M 250 SN 8,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,hv250m,134,mtr,54,16.50,0.00,0.00,2.00,268,8.00,26.50,29.615,3968.41
+947,3121121,Hv-viemäri (vietto) M 250 SN 8,Luumutie D 3267 002,hv250m,175,mtr,54,16.50,0.00,0.00,2.00,350,8.00,26.50,29.615,5182.62
+858,31232,Betonitarkastuskaivo 800 mm EK-kaivo,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,hvtk800ek,7,kpl,54,605.53,0.00,0.00,60.00,420,64.00,729.53,817.0677,5719.47
+890,31232,Betonitarkastuskaivo 800 mm EK-kaivo,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,hvtk800ek,5,kpl,54,605.53,0.00,0.00,60.00,300,64.00,729.53,817.0677,4085.34
+920,31232,Betonitarkastuskaivo 800 mm EK-kaivo,Juolukkatie D 6753 007,hvtk800ek,3,kpl,54,605.53,0.00,0.00,60.00,180,64.00,729.53,817.0677,2451.2
+948,31232,Betonitarkastuskaivo 800 mm EK-kaivo,Luumutie D 3267 002,hvtk800ek,4,kpl,54,605.53,0.00,0.00,60.00,240,64.00,729.53,817.0677,3268.27
+859,3124,Huleveden tonttiliittymä,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,hv_tonttiliit,9,kpl,54,50.00,0.00,0.00,120.00,1080,160.00,330.00,403.45,3631.05
+891,3124,Huleveden tonttiliittymä,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,hv_tonttiliit,8,kpl,54,50.00,0.00,0.00,120.00,960,160.00,330.00,403.45,3227.6
+921,3124,Huleveden tonttiliittymä,Juolukkatie D 6753 007,hv_tonttiliit,1,kpl,54,50.00,0.00,0.00,120.00,120,160.00,330.00,403.45,403.45
+949,3124,Huleveden tonttiliittymä,Luumutie D 3267 002,hv_tonttiliit,2,kpl,54,50.00,0.00,0.00,120.00,240,160.00,330.00,403.45,806.9
+860,313121,VJ M 90 PE PN 10,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,vj90m,301,mtr,54,0.00,0.00,0.00,1.20,361.2,3.20,4.40,5.236,1576.04
+893,313121,VJ M 90 PE PN 10,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,vj90m,230,mtr,54,0.00,0.00,0.00,1.20,276,3.20,4.40,5.236,1204.28
+922,313121,VJ M 90 PE PN 10,Juolukkatie D 6753 007,vj90m,97,mtr,54,0.00,0.00,0.00,1.20,116.4,3.20,4.40,5.236,507.89
+951,313121,VJ M 90 PE PN 10,Luumutie D 3267 002,vj90m,155,mtr,54,0.00,0.00,0.00,1.20,186,3.20,4.40,5.236,811.58
+861,31321,Kumiluistiventtiili DN 80,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kumuluistinvent80,5,kpl,54,0.00,0.00,0.00,,0,64.00,64.00,69.76,348.8
+894,31321,Kumiluistiventtiili DN 80,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,kumuluistinvent80,3,kpl,54,0.00,0.00,0.00,,0,64.00,64.00,69.76,209.28
+924,31321,Kumiluistiventtiili DN 80,Juolukkatie D 6753 007,kumuluistinvent80,3,kpl,54,0.00,0.00,0.00,,0,64.00,64.00,69.76,209.28
+952,31321,Kumiluistiventtiili DN 80,Luumutie D 3267 002,kumuluistinvent80,2,kpl,54,0.00,0.00,0.00,,0,64.00,64.00,69.76,139.52
+862,31324,Palopostit pieni,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,paloposti_pieni,1,kpl,54,0.00,0.00,0.00,,0,64.00,64.00,69.76,69.76
+926,31324,Palopostit pieni,Juolukkatie D 6753 007,paloposti_pieni,1,kpl,54,0.00,0.00,0.00,,0,64.00,64.00,69.76,69.76
+863,3133,Vesijohdon tonttiliittymä PEM 32 PN 10,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,vj_tonttiliit,18,kpl,54,0.00,0.00,0.00,120.00,2160,160.00,280.00,348.95,6281.1
+895,3133,Vesijohdon tonttiliittymä PEM 32 PN 10,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,vj_tonttiliit,13,kpl,54,0.00,0.00,0.00,120.00,1560,160.00,280.00,348.95,4536.35
+927,3133,Vesijohdon tonttiliittymä PEM 32 PN 10,Juolukkatie D 6753 007,vj_tonttiliit,6,kpl,54,0.00,0.00,0.00,120.00,720,160.00,280.00,348.95,2093.7
+953,3133,Vesijohdon tonttiliittymä PEM 32 PN 10,Luumutie D 3267 002,vj_tonttiliit,8,kpl,54,0.00,0.00,0.00,120.00,960,160.00,280.00,348.95,2791.6
+864,3139,Väliaikainen venttiili (ei sis. Materiaaleja) sisältää:työt/kaivuun/täytöt,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,valiaik_ventt,2,kpl,54,0.00,0.00,0.00,461.54,923.08,246.15,707.69,939.6521,1879.3
+897,3139,Väliaikainen venttiili (ei sis. Materiaaleja) sisältää:työt/kaivuun/täytöt,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,valiaik_ventt,3,kpl,54,0.00,0.00,0.00,461.54,1384.62,246.15,707.69,939.6521,2818.96
+954,3139,Väliaikainen venttiili (ei sis. Materiaaleja) sisältää:työt/kaivuun/täytöt,Luumutie D 3267 002,valiaik_ventt,1,kpl,54,0.00,0.00,0.00,461.54,461.54,246.15,707.69,939.6521,939.65
+867,1131,Betonikaivon purku,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,bet_kaivon_purku,1,kpl,65,0.00,50.00,0.00,120.00,120,64.00,234.00,298.81,298.81
+869,1159,Reunatuen purkaminen betoninen liimattu,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,reuntatuen_purku,6,mtr,65,0.00,0.00,0.00,1.20,7.2,2.13,3.33,4.0697,24.42
+873,1631,Tuentaelementti,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,tuentaelementti,140,m2tr,65,0.00,0.00,0.00,6.00,840,1.60,7.60,10.474,1466.36
+907,1631,Tuentaelementti,Juolukkatie D 6753 007,tuentaelementti,132,m2tr,65,0.00,0.00,0.00,6.00,792,1.60,7.60,10.474,1382.57
+880,221122,Reunatuki liimattava betoninen harmaa,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,reunatuki_liimatt,6,mtr,65,0.00,25.00,0.00,,0,,25.00,27.25,163.5
+881,23211,Nurmikko A3,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,nurm_a3,5,m2tr,57,3.00,0.00,0.00,1.00,5,0.53,4.53,5.2977,26.49
+888,3121121,Hv-viemäri (vietto) M 315 SN 8,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,hv315m,1,mtr,54,35.19,0.00,0.00,2.00,2,8.00,45.19,49.9871,49.99
+889,3121122,Hv-viemäri (vietto) BE400,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,hv400b,1,mrt,54,50.00,0.00,0.00,1.50,1.5,10.67,62.17,68.3153,68.32
+892,3125,Valuliitos,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,valuliitos,1,kpl,54,100.00,0.00,0.00,,0,160.00,260.00,283.4,283.4
+896,3139,Vesijohdon sujutus,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,vj_sujutus,45,mtr,54,15.00,0.00,0.00,,0,,15.00,16.35,735.75
+898,1111,Pensasaidan siirto,Juolukkatie D 6753 007,pensaiden_siirto,20,mtr,65,0.00,0.00,0.00,,0,6.40,6.40,6.976,139.52
+928,1111,Pensasaidan siirto,Luumutie D 3267 002,pensaiden_siirto,70,mtr,65,0.00,0.00,0.00,,0,6.40,6.40,6.976,488.32
+902,1133,Valaisinpylvään siirto H=8-12m,Juolukkatie D 6753 007,valaisinpylvaan_siirto,1,kpl,65,1000.00,0.00,0.00,,0,,1000.00,1090,1090
+908,1721,Putki-ja johtokanaalit,Juolukkatie D 6753 007,kallio,56,m3ktr,63,0.00,75.00,15.00,12.00,672,,102.00,115.55,6470.8
+914,214111,Asfalttipäällyste 5a sis. ajoratamerkinnät,Juolukkatie D 6753 007,ab_kl5a,727,m2tr,61,0.00,10.53,0.00,,0,,10.53,11.4777,8344.29
+923,313122,VJ M 160 PE PN 10,Juolukkatie D 6753 007,vj160m,55,mtr,54,0.00,0.00,0.00,1.20,66,3.20,4.40,5.236,287.98
+925,31321,Kumiluistiventtiili DN 150,Juolukkatie D 6753 007,kumuluistinvent150,2,kpl,54,0.00,0.00,0.00,,0,64.00,64.00,69.76,139.52
+929,1111,Jätepuun ja kasvillisuuden poisto,Luumutie D 3267 002,jatepuun_poisto,100,m2tr,65,0.00,0.00,0.00,,0,3.20,3.20,3.488,348.8
+934,1421,XPS-routaeristys 50 mm,Luumutie D 3267 002,xps_eriste,25,m2tr,51,15.00,0.00,0.00,,0,2.13,17.13,18.6717,466.79
+950,3125,Kaivon timanttiporaus,Luumutie D 3267 002,kaivon_timanttiporaus,1,kpl,65,0.00,100.00,0.00,,0,,100.00,109,109
+955,1833.1,Lopputäyttö kaivumailla,Luumutie D 3267 002,kaivumaa_kaivu,413.5,m3,65,0.00,0.00,3.00,8.57,3543.7,4.00,15.57,20.0913,8307.75
+956,1833.1,Lopputäyttö kaivumailla,Juolukkatie D 6753 007,kaivumaa_kaivu,388.5,m3,65,0.00,0.00,3.00,8.57,3329.44,4.00,15.57,20.0913,7805.47
+957,1833.1,Lopputäyttö kaivumailla,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,kaivumaa_kaivu,629.5,m3,65,0.00,0.00,3.00,8.57,5394.82,4.00,15.57,20.0913,12647.47
+958,1833.1,Lopputäyttö kaivumailla,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kaivumaa_kaivu,992.5,m3,65,0.00,0.00,3.00,8.57,8505.72,4.00,15.57,20.0913,19940.62
+959,1621.1,Putkikaivannon kaivu ja täyttö,Luumutie D 3267 002,kaivumaa_taytto,413.5,m3,53,0.00,0.00,3.00,6.67,2758.04,1.68,11.35,14.8015,6120.42
+960,1621.1,Putkikaivannon kaivu ja täyttö,Juolukkatie D 6753 007,kaivumaa_taytto,388.5,m3,53,0.00,0.00,3.00,6.67,2591.3,1.68,11.35,14.8015,5750.38
+961,1621.1,Putkikaivannon kaivu ja täyttö,Vaapukkatie Lehmustie-Mustikkatie D 6630 007,kaivumaa_taytto,629.5,m3,53,0.00,0.00,3.00,6.67,4198.77,1.68,11.35,14.8015,9317.54
+962,1621.1,Putkikaivannon kaivu ja täyttö,Vaapukkatie Mustikkatie-Lemmikäisentie D 6630 008,kaivumaa_taytto,992.5,m3,53,0.00,0.00,3.00,6.67,6619.98,1.68,11.35,14.8015,14690.49

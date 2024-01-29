@@ -1,0 +1,2 @@
+konetyö_tuntihinta,kone_tehtävä,miestyö_tuntihinta,mies_tehtävä,kuljetus_tuntihinta,auto_tehtävä,työpäivän_pituus_h,jaetun_tehtävän_pituus,Aloituspäivämäärä,csv_laskentatiedoston_nimi,csv_tulosteen_nimi
+75,1,35,1,55,1,8,5,1..2024,laskentatiedosto.csv,tulos.csv
